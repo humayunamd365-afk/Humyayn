@@ -219,7 +219,7 @@ Movies 🍿 🍿 🍿 🎥 🎥 🎥 🎥
 http://66.102.120.18:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/gbXcCCYS/images-1.jpg" group-title="Movie", Star Movies HD
 http://66.102.120.18:8000/play/a021/index.m3u8
-##EXTINF:-1 tvg-logo="https://i.ibb.co.com/gbXcCCYS/images-1.jpg" group-title="Movie",STAR Movies Select HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gbXcCCYS/images-1.jpg" group-title="Movie",STAR Movies Select HD
 http://66.102.120.18:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/gbXcCCYS/images-1.jpg" group-title="Movie", Star Gold 2
 http://66.102.120.18:8000/play/a00g/index.m3u8
@@ -243,19 +243,18 @@ https://cdn-2.pishow.tv/live/1461/master.m3u8
 
 
 
-##EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lopgzj.png" group-title="Movie", Zee Anmol Cinema HD
+#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lopgzj.png" group-title="Movie", Zee Anmol Cinema HD
 http://66.102.120.18:8000/play/a01v/index.m3u8
-EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lopgzj.png" group-title="Movie", Zee Bollywood
+#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lopgzj.png" group-title="Movie", Zee Bollywood
 http://66.102.120.18:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lopgzj.png" group-title="Movie", Zee Cafe HD
-http://66.102.120.18:8000/play/a01v/index.m3u8
+http://66.102.120.18:8000/play/a076/index.m3u8
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lopgzj.png" group-title="Movie", Zee Cinema HD
-http://66.102.120.18:8000/play/a01v/index.m3u8
 http://66.102.120.18:8000/play/a06w/index.m3u8
-EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lopgzj.png" group-title="Movie", Zee Classic
-http://66.102.120.18:8000/play/a01v/index.m3u8
+#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lopgzj.png" group-title="Movie", Zee Classic
+http://66.102.120.18:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lopgzj.png" group-title="Movie", Zee TV HD
-http://66.102.120.18:8000/play/a01v/index.m3u8
+http://66.102.120.18:8000/play/a00y/index.m3u8
 
 
 #EXTINF:1 tvg-name="The Movie Club" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20241211T020400SQUARE.png" group-title="Movies📽️",The Movie Club 📽️
