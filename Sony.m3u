@@ -71,10 +71,6 @@ http://fast.luckonline.eu/live/2Nw6SArNhs/9754302190/623.m3u8
 #EXTINF:1 tvg-name="Colors Sinplex" tvg-logo="https://i.ibb.co.com/Mz0MyF7/IMG-20250820-082600-199.jpg" group-title="Movie(HuMaYuN)",Colors Sineplex_HD 📡
 http://fast.luckonline.eu/live/2Nw6SArNhs/9754302190/632.m3u8
 
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Humayun",&Tv HD
-https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-
 BANGLADESH (AKHASH GO)
 
 #EXTINF:-1 tvg-id="134" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png" group-title="Akash Go🇧🇩",Deepto TV HD 📺
@@ -287,7 +283,7 @@ http://fl3.moveonjoy.com/HBO_COMEDY/index.m3u8
 http://fl3.moveonjoy.com/HBO_ZONE/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="https://8upload.com/image/6857f13ed7938/hbo2hilay.png" group-title="Movies📽️",HBO 2 📽️
-http://fl3.moveonjoy.com/HBO_2/index.m3u8
+https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="zee-action" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lopgzj.png" group-title="Movies📽️",Zee Action 📽️
 https://tiger-hub.vercel.app/Zee--_action-/tracks-v1a1/mono.ts.m3u8
