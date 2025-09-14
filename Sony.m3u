@@ -96,8 +96,6 @@ https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF
 Kids👦🏻👦🏻
 
 
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vvcckpkW/4d9f95ffa96d.jpg" group-title="Cartoon🧸",CHUMBAK TV 📺(Kids)
 https://cdn-1.pishow.tv/live/1451/master.m3u8
 #EXTINF:1 tvg-name="Duronto Tv" tvg-logo="https://i.ibb.co.com/xqyP9fWP/IMG-20250808-081232.jpg" group-title="Cartoon🧸",Duronto Tv 📺(Kids)
@@ -256,13 +254,6 @@ http://66.102.120.18:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lopgzj.png" group-title="Movie", Zee TV HD
 http://66.102.120.18:8000/play/a00y/index.m3u8
 
-
-#EXTINF:1 tvg-name="The Movie Club" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20241211T020400SQUARE.png" group-title="Movies📽️",The Movie Club 📽️
-
-#EXTINF:1 tvg-name="South Station" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20250625T011531SQUARE.png" group-title="Movies📽️",South Station 📽️
-
-#EXTINF:1 tvg-name="Star Movies HD" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_HD.png" group-title="Movies📽️",Star Movies HD 📽️
-
 #EXTINF:-1 tvg-id="pitaara" tvg-name="Pitaara" tvg-language="Punjabi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/dydzlx.png" tvg-chno="pitaara" group-title="Movies📽️",Pitaara 📽️
 #http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6650/index.m3u8
 http://212.102.34.8:9080/Pitaara/index.m3u8
@@ -311,24 +302,6 @@ https://tiger-hub.vercel.app/SONY/Wah/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/gsxqjs.png" group-title="Movies📽️",Sony PIX HD 📽️
 https://tiger-hub.vercel.app/SONY/Pix/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="hgtv" tvg-logo="https://8upload.com/image/6857c77a46ff8/hgtvhilay.png" group-title="Movies📽️",HGTV 📽️
-http://fl3.moveonjoy.com/HGTV/index.m3u8
-#EXTINF:-1 tvg-id="rockaction" tvg-logo="https://8upload.com/image/6856143c0748d/rockactionhilay.png" group-title="Movies📽️",Rock Action 📽️
-http://s1.an94tv.cfd/aktv/rockaction/AKTV.m3u8
-#EXTINF:-1 tvg-id="sonymovie" tvg-logo="https://8upload.com/image/67dce8b21f089/sonymovies.png" group-title="Movies📽️",Sony Movie Channel 📽️
-http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
-#EXTINF:-1 tvg-id="param" tvg-logo="https://8upload.com/image/6857e88373d3f/paramountnetworkhilay.png" group-title="Movies📽️",Paramount Network 📽️
-http://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="hallmarkfamily" tvg-logo="https://8upload.com/image/6857e88373d3f/paramountnetworkhilay.png" group-title="Movies📽️",Hallmark Family 📽️
-http://fl3.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
-#EXTINF:-1 tvg-id="axn" tvg-logo="https://8upload.com/image/6857c6965a66c/axnhilay.png" group-title="Movies📽️",AXN 📽️
-http://s1.an94tv.cfd/aktv/axn/AKTV.m3u8
-#EXTINF:-1 tvg-id="popc" tvg-logo="https://8upload.com/image/68564f96799fd/popchilay.png" group-title="Movies📽️",PopC 📽️
-http://s1.an94tv.cfd/aktv/popc/AKTV.m3u8
-#EXTINF:-1 tvg-id="starz" tvg-logo="https://8upload.com/image/684a8c373dfff/starzhilay.png" group-title="Movies📽️",STARZ 📽️
-http://fl1.moveonjoy.com/STARZ/index.m3u8
-#EXTINF:-1 tvg-id="moviesphere" tvg-logo="https://8upload.com/image/68401f05ca810/moviespherehilay.png" group-title="Movies📽️",Movie-Sphere 📽️
-https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/f74bc44e-59f6-46dd-82d6-f5c30083966a/4.m3u8
 
 ****************Infotainment***************
 
