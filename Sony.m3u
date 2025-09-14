@@ -282,7 +282,7 @@ http://fl3.moveonjoy.com/HBO_COMEDY/index.m3u8
 #EXTINF:-1 tvg-id="HBOZone" tvg-name="HBO Zone" tvg-logo="https://8upload.com/image/6857f59ea7e1a/hbozonehilay.png" group-title="Movies📽️",HBO Zone 📽️
 http://fl3.moveonjoy.com/HBO_ZONE/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="https://8upload.com/image/6857f13ed7938/hbo2hilay.png" group-title="Movies📽️",HBO 2 📽️
+#EXTINF:-1 tvg-id="-tv" tvg-name="& TV (And TV)" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ipckcm.png" tvg-chno="-tv" group-title="SonyLIV(Humayun)",& TV (And TV) 📡
 https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="zee-action" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lopgzj.png" group-title="Movies📽️",Zee Action 📽️
