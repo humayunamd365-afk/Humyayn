@@ -35,6 +35,8 @@ https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-logo="https://i.postimg.cc/xCzcchKz/SONY-SPORTS-TEN-5-HD.png" group-title="SonyLIV(Humayun)",Sony Sports Ten 5 HD
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+#EXTINF:-1 tvg-id="-tv" tvg-name="& TV (And TV)" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ipckcm.png" tvg-chno="-tv" group-title="SonyLIV(Humayun)",& TV (And TV) 📡
+https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 
 MovieH
 
@@ -66,6 +68,10 @@ http://66.102.120.18:8000/play/a06w/index.m3u8
 http://66.102.120.18:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lopgzj.png" group-title="Movie(HuMaYuN)", Zee TV HD
 http://66.102.120.18:8000/play/a00y/index.m3u8
+EXTINF:1 tvg-name="Colors Sinplex" tvg-logo="https://i.ibb.co.com/Wptn1yCP/IMG-20250818-124211.jpg" group-title="Movie(HuMaYuN)",Colors Sineplex_sd 📡
+http://fast.luckonline.eu/live/2Nw6SArNhs/9754302190/623.m3u8
+#EXTINF:1 tvg-name="Colors Sinplex" tvg-logo="https://i.ibb.co.com/Mz0MyF7/IMG-20250820-082600-199.jpg" group-title="Movie(HuMaYuN)",Colors Sineplex_HD 📡
+http://fast.luckonline.eu/live/2Nw6SArNhs/9754302190/632.m3u8
 
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Humayun", সনি কাল
