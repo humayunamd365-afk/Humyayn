@@ -330,8 +330,7 @@ https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043
 ****************Infotainment***************
 
 
-
-#EXTINF:-1,Travelxp HD
+#EXTINF:1 tvg-name="TravelXP" tvg-logo="https://i.ibb.co.com/gbXcCCYS/images-1.jpg" group-title="Infotainment🏞️🐘",TravelHD 📽️
 http://66.102.120.18:8000/play/a075/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b70a8cf9450c4d6484b4ac4d3c6761c0:0908be844260409cbac180bf0181da40
