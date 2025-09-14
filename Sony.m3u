@@ -51,23 +51,10 @@ https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-language="English" tvg-logo="https://i.postimg.cc/xCzcchKz/SONY-SPORTS-TEN-5-HD.png" group-title="Sports", Sony Sports Ten 5 HD
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
-#EXTINF:-1 tvg-id="sony-kal" tvg-name="Sony KAL" tvg-country="IN" tvg-logo="https://i.postimg.cc/ZqnmcXdx/Sony-KAL.png" tvg-chno="sony-kal" group-title="SonyLIV by CRICFy",Sony KAL
-https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Humayun", সনি কাল
 
 https://unosottor.vercel.app/stream/206285.m3u8
-
-#EXTINF:-1 tvg-id="sunbangla" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/sunbangla.png" group-title="Entertainment",Sun Bangla HD
-http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
-#EXTINF:-1,COLORS CINEPLEX HD
-https://tiger-hub.vercel.app/Colors-Cineplex/tracks-v1a1/mono.ts.m3u8
-EXTINF:-1 tvg-id="gla" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/sunbangla.png" group-title="Entertainment",Sun Bangla HD
-http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
-
-#EXTINF:1 tvg-name="Colors Cineplex Superhit" tvg-logo="https://i.ibb.co/XxwRMX6c/images.jpg" group-title="Entertainment",Colors Cineplex Superhit
-https://live.dinesh29.com.np/stream/jiotvplus/colorscineplexsuperhit/master.m3u8
-
 
 BANGLADESH (AKHASH GO)
 
