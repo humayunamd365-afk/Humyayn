@@ -215,6 +215,7 @@ https://cdn149.anystream.uk:8082/app/h199ltv/playlist.m3u8
 
 Movies 🍿 🍿 🍿 🎥 🎥 🎥 🎥 
 
+#EXTM3U
 #EXTINF:1 tvg-name="Star GOlD HD" tvg-logo="https://i.ibb.co.com/gbXcCCYS/images-1.jpg" group-title="Movies📽️",Movie Drama 📽️
 http://66.102.120.18:8000/play/a00f/index.m3u8
 #EXTINF:-1,STAR Movies HD - Rs 19.00
@@ -240,6 +241,8 @@ https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF:-1 tvg-id="101" tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-1461.jpg" group-title="Movies📽️",GOLDMINES MOVIES 📽️
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 #EXTINF:1 tvg-name="NH BollyFlix" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000140Q_20250521T010047SQUARE.png" group-title="Movies📽️",NH BollyFlix 📽️
+
+
 
 #EXTINF:-1,Zee Anmol Cinema - Rs 0.10
 http://66.102.120.18:8000/play/a01v/index.m3u8
@@ -353,15 +356,3 @@ https://vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 #EXTINF:1 tvg-name="History TV18 HD (HINDI)" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/historytv18hd.png" group-title="Infotainment🏞️🐘",History TV18 HD (HINDI) 📺
 https://tiger-hub.vercel.app/History-tv-18_Hindy/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="GBBB5000002PL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB5000002PL_20250107T025838SQUARE.png" group-title="Infotainment🏞️🐘",Wild Planet 📺
-
-#EXTINF:-1 tvg-id="GBBC900015D3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900015D3_20250107T022812SQUARE.png" group-title="Infotainment🏞️🐘",Adventure Earth 📺
-
-#EXTINF:-1 tvg-id="GBBD50000084W" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD50000084W_20250107T030710SQUARE.png" group-title="Infotainment🏞️🐘",Jack Hanna 📺
-
-#EXTINF:-1 tvg-id="GBAJ700001FH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ700001FH_20250107T022626SQUARE.png" group-title="Infotainment🏞️🐘",Pluto TV Animals 📺
-
-#EXTINF:-1 tvg-id="GBBA220000751" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA220000751_20250107T022608SQUARE.png" group-title="Infotainment🏞️🐘",INWILD 📺
-
-#EXTINF:-1 tvg-id="GBBC300003UQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC300003UQ_20250107T025835SQUARE.png" group-title="Infotainment🏞️🐘",WaterBear 📺
-
-#EXTINF:-1 tvg-id="GBBD500001F5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD500001F5_20250304T114708SQUARE.png" group-title="Infotainment🏞️🐘",Love the Planet 📺
