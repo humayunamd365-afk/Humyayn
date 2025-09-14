@@ -226,3 +226,91 @@ https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/bil77tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.supaimg.com/018a70f5-c9eb-4625-814a-784f95a10580.jpg" group-title="Islam Channels🕋",HILLAL TV 📺
 https://cdn149.anystream.uk:8082/app/h199ltv/playlist.m3u8
+
+Movies 🍿 🍿 🍿 🎥 🎥 🎥 🎥 
+
+
+
+
+#EXTINF:1 tvg-name="Movie Drama" tvg-logo="https://i.ibb.co.com/gbXcCCYS/images-1.jpg" group-title="Movies📽️",Movie Drama 📽️
+https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
+#EXTINF:1 tvg-name="All Time Movies" tvg-logo="https://i.ibb.co.com/Mk3fjMDf/images.jpg" group-title="Movies📽️",All Time Movies 📽️
+https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-1459.jpg" group-title="Movies📽️",GOLDMINES 📽️
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+#EXTINF:-1 tvg-id="101" tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-1461.jpg" group-title="Movies📽️",GOLDMINES MOVIES 📽️
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+#EXTINF:1 tvg-name="NH BollyFlix" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000140Q_20250521T010047SQUARE.png" group-title="Movies📽️",NH BollyFlix 📽️
+
+#EXTINF:1 tvg-name="The Movie Club" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20241211T020400SQUARE.png" group-title="Movies📽️",The Movie Club 📽️
+
+#EXTINF:1 tvg-name="South Station" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20250625T011531SQUARE.png" group-title="Movies📽️",South Station 📽️
+
+#EXTINF:1 tvg-name="Star Movies HD" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_HD.png" group-title="Movies📽️",Star Movies HD 📽️
+
+#EXTINF:-1 tvg-id="pitaara" tvg-name="Pitaara" tvg-language="Punjabi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/dydzlx.png" tvg-chno="pitaara" group-title="Movies📽️",Pitaara 📽️
+#http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6650/index.m3u8
+http://212.102.34.8:9080/Pitaara/index.m3u8
+#EXTINF:1 tvg-name="Star Gold_HD" tvg-logo="https://i.ibb.co.com/JDmjxZ0/download.jpg" group-title="Movies📽️",Star Gold_HD 📽️
+http://fast.luckonline.eu/live/2Nw6SArNhs/9754302190/605.m3u8
+#EXTINF:1 tvg-name="Star Gold Select_HD" tvg-logo="https://i.ibb.co.com/0VBv8T8q/stargoldselect-HD.webp" group-title="Movies📽️",Star Gold Select_HD 📽️
+
+#EXTINF:1 tvg-name="Star Gold Romance" tvg-logo="https://i.ibb.co.com/ycxTSYYF/Screenshot-2025-08-12-21-15-25-598-com-miui-gallery-edit.jpg" group-title="Movies📽️",Star Gold Romance 📽️
+http://fast.luckonline.eu/live/2Nw6SArNhs/9754302190/630.m3u8
+#EXTINF:1 tvg-name="Star Gold Thrills" tvg-logo="https://i.ibb.co.com/vxVTT2YB/IMG-20250812-211623.jpg" group-title="Movies📽️",Star Gold Thrills 📽️
+
+#EXTINF:1 tvg-name="Star Gold" tvg-logo="https://i.ibb.co.com/tPNZTnpD/IMG-20250812-211759.jpg" group-title="Movies📽️",Star Gold 2 📽️
+
+#EXTINF:1 tvg-name="Star Bharat" tvg-logo="https://i.ibb.co/whCNNGwM/images-1.jpg" group-title="Movies📽️",Star Bharat 📽️
+http://fast.luckonline.eu/live/2Nw6SArNhs/9754302190/586.m3u8
+#EXTINF:1 tvg-name="Star Gold Select" tvg-logo="https://i.ibb.co/wNp7J0Gr/images-2.jpg" group-title="Movies📽️",Star Gold Select 📽️
+http://fast.luckonline.eu/live/2Nw6SArNhs/9754302190/631.m3u8
+
+#EXTINF:-1 tvg-id="HBOfamily" tvg-name="HBO Family" tvg-logo="https://8upload.com/image/6857ab0561168/hbofamilyhilay.png" group-title="Movies📽️",HBO Family 📽️
+http://fl3.moveonjoy.com/HBO_FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://8upload.com/image/6857ea00335ca/hbohilay.png" group-title="Movies📽️",HBO 📽️
+http://fl3.moveonjoy.com/HBO/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOComedy" tvg-name="HBO Comedy" tvg-logo="https://8upload.com/image/6857f2c96b002/hbocomedyhilay.png" group-title="Movies📽️",HBO Comedy 📽️
+http://fl3.moveonjoy.com/HBO_COMEDY/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOZone" tvg-name="HBO Zone" tvg-logo="https://8upload.com/image/6857f59ea7e1a/hbozonehilay.png" group-title="Movies📽️",HBO Zone 📽️
+http://fl3.moveonjoy.com/HBO_ZONE/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="https://8upload.com/image/6857f13ed7938/hbo2hilay.png" group-title="Movies📽️",HBO 2 📽️
+http://fl3.moveonjoy.com/HBO_2/index.m3u8
+
+#EXTINF:-1 tvg-id="zee-action" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lopgzj.png" group-title="Movies📽️",Zee Action 📽️
+https://tiger-hub.vercel.app/Zee--_action-/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="-pictures" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/xdksem.png" group-title="Movies📽️",& Pictures (And Pictures) 📽️
+https://tiger-hub.vercel.app/&Picture/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/tpjeqj.png" group-title="Movies📽️",Sony MAX HD 📽️
+https://tiger-hub.vercel.app/SONY/MaxUK/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="sony-max" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/rlvkwc.png" group-title="Movies📽️",Sony MAX 📽️
+https://tiger-hub.vercel.app/SONY/Max/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="sony-max-2" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/babgov.png" group-title="Movies📽️",Sony MAX 2 📽️
+https://tiger-hub.vercel.app/SONY/Max2/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="sony-wah" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ctetuk.png" group-title="Movies📽️",Sony WAH 📽️
+https://tiger-hub.vercel.app/SONY/Wah/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/gsxqjs.png" group-title="Movies📽️",Sony PIX HD 📽️
+https://tiger-hub.vercel.app/SONY/Pix/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="hgtv" tvg-logo="https://8upload.com/image/6857c77a46ff8/hgtvhilay.png" group-title="Movies📽️",HGTV 📽️
+http://fl3.moveonjoy.com/HGTV/index.m3u8
+#EXTINF:-1 tvg-id="rockaction" tvg-logo="https://8upload.com/image/6856143c0748d/rockactionhilay.png" group-title="Movies📽️",Rock Action 📽️
+http://s1.an94tv.cfd/aktv/rockaction/AKTV.m3u8
+#EXTINF:-1 tvg-id="sonymovie" tvg-logo="https://8upload.com/image/67dce8b21f089/sonymovies.png" group-title="Movies📽️",Sony Movie Channel 📽️
+http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+#EXTINF:-1 tvg-id="param" tvg-logo="https://8upload.com/image/6857e88373d3f/paramountnetworkhilay.png" group-title="Movies📽️",Paramount Network 📽️
+http://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="hallmarkfamily" tvg-logo="https://8upload.com/image/6857e88373d3f/paramountnetworkhilay.png" group-title="Movies📽️",Hallmark Family 📽️
+http://fl3.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 tvg-id="axn" tvg-logo="https://8upload.com/image/6857c6965a66c/axnhilay.png" group-title="Movies📽️",AXN 📽️
+http://s1.an94tv.cfd/aktv/axn/AKTV.m3u8
+#EXTINF:-1 tvg-id="popc" tvg-logo="https://8upload.com/image/68564f96799fd/popchilay.png" group-title="Movies📽️",PopC 📽️
+http://s1.an94tv.cfd/aktv/popc/AKTV.m3u8
+#EXTINF:-1 tvg-id="starz" tvg-logo="https://8upload.com/image/684a8c373dfff/starzhilay.png" group-title="Movies📽️",STARZ 📽️
+http://fl1.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1 tvg-id="moviesphere" tvg-logo="https://8upload.com/image/68401f05ca810/moviespherehilay.png" group-title="Movies📽️",Movie-Sphere 📽️
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/f74bc44e-59f6-46dd-82d6-f5c30083966a/4.m3u8
