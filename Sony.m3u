@@ -54,6 +54,18 @@ http://66.102.120.18:8000/play/a00r/index.m3u8
 http://66.102.120.18:8000/play/a01s/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/gbXcCCYS/images-1.jpg" group-title="Movie(HuMaYuN)", Star Gold Thrils
 http://66.102.120.18:8000/play/a00c/index.m3u8
+#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lopgzj.png" group-title="Movie(HuMaYuN)", Zee Anmol Cinema HD
+http://66.102.120.18:8000/play/a01v/index.m3u8
+#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lopgzj.png" group-title="Movie(HuMaYuN)", Zee Bollywood
+http://66.102.120.18:8000/play/a00n/index.m3u8
+#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lopgzj.png" group-title="Movie(HuMaYuN)", Zee Cafe HD
+http://66.102.120.18:8000/play/a076/index.m3u8
+#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lopgzj.png" group-title="Movie(HuMaYuN)", Zee Cinema HD
+http://66.102.120.18:8000/play/a06w/index.m3u8
+#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lopgzj.png" group-title="Movie(HuMaYuN)", Zee Classic
+http://66.102.120.18:8000/play/a006/index.m3u8
+#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lopgzj.png" group-title="Movie(HuMaYuN)", Zee TV HD
+http://66.102.120.18:8000/play/a00y/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Humayun", সনি কাল
@@ -241,18 +253,6 @@ https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF:-1 tvg-id="101" tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-1461.jpg" group-title="Movies📽️",GOLDMINES MOVIES 📽️
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 #EXTINF:1 tvg-name="NH BollyFlix" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000140Q_20250521T010047SQUARE.png" group-title="Movies📽️",NH BollyFlix 📽️
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lopgzj.png" group-title="Movie", Zee Anmol Cinema HD
-http://66.102.120.18:8000/play/a01v/index.m3u8
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lopgzj.png" group-title="Movie", Zee Bollywood
-http://66.102.120.18:8000/play/a00n/index.m3u8
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lopgzj.png" group-title="Movie", Zee Cafe HD
-http://66.102.120.18:8000/play/a076/index.m3u8
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lopgzj.png" group-title="Movie", Zee Cinema HD
-http://66.102.120.18:8000/play/a06w/index.m3u8
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lopgzj.png" group-title="Movie", Zee Classic
-http://66.102.120.18:8000/play/a006/index.m3u8
-#EXTINF:-1 tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lopgzj.png" group-title="Movie", Zee TV HD
-http://66.102.120.18:8000/play/a00y/index.m3u8
 
 #EXTINF:-1 tvg-id="pitaara" tvg-name="Pitaara" tvg-language="Punjabi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/dydzlx.png" tvg-chno="pitaara" group-title="Movies📽️",Pitaara 📽️
 #http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6650/index.m3u8
