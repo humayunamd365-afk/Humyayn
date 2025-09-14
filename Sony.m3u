@@ -215,7 +215,22 @@ https://cdn149.anystream.uk:8082/app/h199ltv/playlist.m3u8
 
 Movies 🍿 🍿 🍿 🎥 🎥 🎥 🎥 
 
-
+#EXTINF:-1,STAR GOLD HD - Rs 19.00
+http://66.102.120.18:8000/play/a00f/index.m3u8
+#EXTINF:-1,STAR Movies HD - Rs 19.00
+http://66.102.120.18:8000/play/a021/index.m3u8
+#EXTINF:-1,STAR Movies Select HD - Rs 19.00
+http://66.102.120.18:8000/play/a020/index.m3u8
+#EXTINF:-1,Star Gold 2 - Rs 3.00
+http://66.102.120.18:8000/play/a00g/index.m3u8
+#EXTINF:-1,Star Gold 2 HD
+http://66.102.120.18:8000/play/a077/index.m3u8
+#EXTINF:-1,Star Gold Romance - Rs 2.00
+http://66.102.120.18:8000/play/a00r/index.m3u8
+#EXTINF:-1,Star Gold Select HD - Rs 8.00
+http://66.102.120.18:8000/play/a01s/index.m3u8
+#EXTINF:-1,Star Gold Thrills - Rs 2.00
+http://66.102.120.18:8000/play/a00c/index.m3u8
 #EXTINF:1 tvg-name="Movie Drama" tvg-logo="https://i.ibb.co.com/gbXcCCYS/images-1.jpg" group-title="Movies📽️",Movie Drama 📽️
 https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
 #EXTINF:1 tvg-name="All Time Movies" tvg-logo="https://i.ibb.co.com/Mk3fjMDf/images.jpg" group-title="Movies📽️",All Time Movies 📽️
@@ -225,6 +240,19 @@ https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF:-1 tvg-id="101" tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-1461.jpg" group-title="Movies📽️",GOLDMINES MOVIES 📽️
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 #EXTINF:1 tvg-name="NH BollyFlix" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000140Q_20250521T010047SQUARE.png" group-title="Movies📽️",NH BollyFlix 📽️
+
+#EXTINF:-1,Zee Anmol Cinema - Rs 0.10
+http://66.102.120.18:8000/play/a01v/index.m3u8
+#EXTINF:-1,Zee Bollywood - Rs 3.00
+http://66.102.120.18:8000/play/a00n/index.m3u8
+#EXTINF:-1,Zee Cafe HD
+http://66.102.120.18:8000/play/a076/index.m3u8
+#EXTINF:-1,Zee Cinema HD 
+http://66.102.120.18:8000/play/a06w/index.m3u8
+#EXTINF:-1,Zee Classic - Rs 0.10
+http://66.102.120.18:8000/play/a006/index.m3u8
+#EXTINF:-1,Zee TV HD - Rs 19.00
+http://66.102.120.18:8000/play/a00y/index.m3u8
 
 #EXTINF:1 tvg-name="The Movie Club" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20241211T020400SQUARE.png" group-title="Movies📽️",The Movie Club 📽️
 
@@ -303,7 +331,8 @@ https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043
 
 
 
-
+#EXTINF:-1,Travelxp HD
+http://66.102.120.18:8000/play/a075/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b70a8cf9450c4d6484b4ac4d3c6761c0:0908be844260409cbac180bf0181da40
 #EXTINF:-1 tvg-id="discovey" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/nddhwf.png" group-title="Infotainment🏞️🐘",Discovery Hindi 📺
