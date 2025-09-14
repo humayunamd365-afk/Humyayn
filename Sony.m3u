@@ -215,7 +215,7 @@ https://cdn149.anystream.uk:8082/app/h199ltv/playlist.m3u8
 
 Movies 🍿 🍿 🍿 🎥 🎥 🎥 🎥 
 
-#EXTINF:-1,STAR GOLD HD - Rs 19.00
+#EXTINF:1 tvg-name="Star GOlD HD" tvg-logo="https://i.ibb.co.com/gbXcCCYS/images-1.jpg" group-title="Movies📽️",Movie Drama 📽️
 http://66.102.120.18:8000/play/a00f/index.m3u8
 #EXTINF:-1,STAR Movies HD - Rs 19.00
 http://66.102.120.18:8000/play/a021/index.m3u8
