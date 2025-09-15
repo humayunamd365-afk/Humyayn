@@ -36,9 +36,17 @@ https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-logo="https://i.postimg.cc/xCzcchKz/SONY-SPORTS-TEN-5-HD.png" group-title="SonyLIV(Humayun)",Sony Sports Ten 5 HD
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
+Documentary
+
 #EXTINF:-1 tvg-id="nationalgeographichd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/nationalgeographichd.png" group-title="Documentary",National Geographic HD
 #https://tiger-hub.vercel.app/National-Geographic_Bangla/tracks-v1a1/mono.ts.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/nationalgeographichd/master.m3u8
+
+#EXTINF:1 tvg-name="Discovery HD World" tvg-logo="https://i.ibb.co/kvjyNJH/images.png" group-title="Documentary",1.DiscoveryHD Bangla 📺
+https://tiger-hub.vercel.app/Discovery-Bangla/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:1 tvg-name="History TV18 HD (HINDI)" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/historytv18hd.png" group-title="Documentary",History TV18 HD (HINDI) 📺
+https://tiger-hub.vercel.app/History-tv-18_Hindy/tracks-v1a1/mono.ts.m3u8
 
 MovieH
 
@@ -300,31 +308,3 @@ https://tiger-hub.vercel.app/SONY/Max2/tracks-v1a1/mono.ts.m3u8
 https://tiger-hub.vercel.app/SONY/Wah/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/gsxqjs.png" group-title="Movies📽️",Sony PIX HD 📽️
 https://tiger-hub.vercel.app/SONY/Pix/tracks-v1a1/mono.ts.m3u8
-
-
-****************Infotainment***************
-
-
-#EXTINF:1 tvg-name="TravelXP" tvg-logo="https://i.ibb.co.com/CpFBcWym/FB-IMG-1755349825626.png" group-title="Infotainment🏞️🐘",TravelHD📽️
-https://66.102.120.18:8000/play/a075/index.m3u8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b70a8cf9450c4d6484b4ac4d3c6761c0:0908be844260409cbac180bf0181da40
-#EXTINF:-1 tvg-id="discovey" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/nddhwf.png" group-title="Infotainment🏞️🐘",Discovery Hindi 📺
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd
-#EXTINF:-1 tvg-id="discovey" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/nddhwf.png" group-title="Infotainment🏞️🐘",Discovery Bangla 📺
-#https://tiger-hub.vercel.app/Discovery-bangla/tracks-v1a1/mono.m3u8
-http://tv.bdiptv.store/live/restreauuX58/refstream/98.m3u8
-#EXTINF:1 tvg-name="Discovery HD World" tvg-logo="https://i.ibb.co/kvjyNJH/images.png" group-title="Infotainment🏞️🐘",1.DiscoveryHD Bangla 📺
-https://tiger-hub.vercel.app/Discovery-Bangla/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="discovey"tvg-logo="https://i.ibb.co/kvjyNJH/images.png" group-title="Infotainment🏞️🐘",2.DiscoveryHD Bangla 📺
-
-#EXTINF:-1 tvg-id="discovery-channel" tvg-name="Discovery" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://i.ibb.co/WN8p0DYg/images-7.jpg" tvg-chno="discovery-channel" group-title="Infotainment🏞️🐘",1.National Geographic 📺
-#https://tiger-hub.vercel.app/National-Geographic_Bangla/tracks-v1a1/mono.ts.m3u8
-http://fast.luckonline.eu/live/2Nw6SArNhs/9754302190/620.m3u8
-#EXTINF:-1 tvg-id="National Geographic Bangla 📺" tvg-name="Discovery" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://i.ibb.co/XxfF9RC3/IMG-20250720-171244-381.jpg" tvg-chno="discovery-channel" group-title="Infotainment🏞️🐘",2.National Geographic Bangla 📺
-http://fast.luckonline.eu/live/2Nw6SArNhs/9754302190/574.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/cSfrMnbg/images-5.jpg" group-title="Infotainment🏞️🐘",Animal planet 📺
-https://vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
-#EXTINF:1 tvg-name="History TV18 HD (HINDI)" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/historytv18hd.png" group-title="Infotainment🏞️🐘",History TV18 HD (HINDI) 📺
-https://tiger-hub.vercel.app/History-tv-18_Hindy/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="GBBB5000002PL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB5000002PL_20250107T025838SQUARE.png" group-title="Infotainment🏞️🐘",Wild Planet 📺
