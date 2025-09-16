@@ -32,7 +32,7 @@ http://203.18.159.115:8081/SONYSPORTS3/index.m3u8
 #EXTINF:-1 tvg-id="sony-ten-4-hd" tvg-logo="https://i.ibb.co.com/Z4V1k4Y/IMG-20250807-211342.jpg" group-title="SonyLIV(Humayun)",Sony Sports Ten 4 HD
 https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-logo="https://i.postimg.cc/xCzcchKz/SONY-SPORTS-TEN-5-HD.png" group-title="SonyLIV(Humayun)",Sony Sports Ten 5 HD
-http://203.18.159.115:8081/SonyLiv_josharmy007_UEFA2/index.m3u8
+
 
 
 🏞️🏞️🏞️🏞️🏞️🏞️🏞️🏞️Discovery🏞️🏞️🏞️🏞️🏞️🏞️🏞️🏞️
@@ -464,7 +464,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 #EXTINF:1 tvg-name="Doraemon 📺" tvg-logo="https://i.ibb.co/v4LzBCKn/images-15.jpg" group-title="Cartoon🧸",Doraemon 📺(Kids)
 https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 #EXTINF:1 tvg-name="Batul The Great 📺" tvg-logo="https://i.ibb.co/LDRt8jR1/images-16.jpg" group-title="Cartoon🧸",Batul The Great 📺(Kids)
-https://cloudfrontnet.vercel.app/tplay/playout/209869/master.m3u8
+http://203.18.159.115:8081/SonyLiv_josharmy007_UEFA2/index.m3u8
 #EXTINF:1 tvg-name="Shinchan" tvg-logo="https://i.ibb.co/qFBDBPQf/images-17.jpg" group-title="Cartoon🧸",Shinchan 📺(Kids)
 http://203.18.159.115:8081/T_SPORTS/index.m3u8
 #EXTINF:1
