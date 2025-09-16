@@ -57,6 +57,9 @@ https://network24.live:4433/Travelclub/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryHD Bangla"tvg-logo="https://i.ibb.co/kvjyNJH/images.png" group-title="Discovery🏞️🐘",2.DiscoveryHD Bangla 📺
 
+#EXTINF:-1 tvg-id="nationalgeographichd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/nationalgeographichd.png" group-title="Discovery🏞️🐘",National Geographic HINDI HD
+https://tiger-hub.vercel.app/National-Geographic_Bangla/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/cSfrMnbg/images-5.jpg" group-title="Discovery🏞️🐘",Animal planet 📺
 https://vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 #EXTINF:1 tvg-name="History TV18 HD (HINDI)" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/historytv18hd.png" group-title="Discovery🏞️🐘",History TV18 HD (HINDI) 📺
