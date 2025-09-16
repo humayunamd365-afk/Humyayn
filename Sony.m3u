@@ -63,9 +63,8 @@ https://vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 https://tiger-hub.vercel.app/History-tv-18_Hindy/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="nationalgeographichd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/nationalgeographichd.png" group-title="Discovery🏞️🐘",National Geographic HD
-#https://tiger-hub.vercel.app/National-Geographic_Bangla/tracks-v1a1/mono.ts.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/nationalgeographichd/master.m3u8
-
+https://tiger-hub.vercel.app/National-Geographic_Bangla/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:1
 
