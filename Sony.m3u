@@ -25,23 +25,14 @@ https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-logo="https://i.postimg.cc/d00sTpK0/SONY-SPORTS-TEN-1-HD.png" group-title="SonyLIV(Humayun)",Sony Sports Ten 1 HD
 http://203.18.159.115:8081/SONYSPORTS1HD/index.m3u8
-https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-logo="https://i.postimg.cc/wvfsmLrC/SONY-SPORTS-TEN-2-HD.png" group-title="SonyLIV(Humayun)",Sony Sports Ten 2 HD
 https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-logo="https://i.postimg.cc/2SGvDswj/SONY-SPORTS-TEN-3-HD.png" group-title="SonyLIV(Humayun)",Sony Sports Ten 3 HD
 http://203.18.159.115:8081/SONYSPORTS3/index.m3u8
-https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-4-hd" tvg-logo="https://i.ibb.co.com/Z4V1k4Y/IMG-20250807-211342.jpg" group-title="SonyLIV(Humayun)",Sony Sports Ten 4 HD
 https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-logo="https://i.postimg.cc/xCzcchKz/SONY-SPORTS-TEN-5-HD.png" group-title="SonyLIV(Humayun)",Sony Sports Ten 5 HD
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-
-BDIX
-
-#EXTINF:-1 tvg-id="Tampmad" tvg-logo="" group-title="BDIX",TamPad
-http://203.18.159.115:8081/tampmad_TG_josharmy007/index.m3u8
-#EXTINF:-1, PREMIER SPORTS 2
-https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/4955.m3u8
 
 
 🏞️🏞️🏞️🏞️🏞️🏞️🏞️🏞️Discovery🏞️🏞️🏞️🏞️🏞️🏞️🏞️🏞️
@@ -325,7 +316,7 @@ http://app.hughag.store/api/b45f637d05/playlist.m3u8
 #EXTINF:-1 group-title="Toffee🇧🇩" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png",SONY ENTERTAINMENT TELEVISION 📺
 http://app.hughag.store/api/bff81131e7/playlist.m3u8
 #EXTINF:-1 group-title="Toffee🇧🇩" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png",SONY PIX HD VIP 📺
-http://app.hughag.store/api/0d6787eb3a/playlist.m3u8
+http://203.18.159.115:8081/tampmad_TG_josharmy007/index.m3u8
 #EXTINF:-1 group-title="Toffee🇧🇩" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png",SONY SPORTS TEN 1 HD 📺
 http://app.hughag.store/api/762cf859a8/playlist.m3u8
 #EXTINF:-1 group-title="Toffee🇧🇩" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png",SONY SPORTS TEN 2 HD 📺
