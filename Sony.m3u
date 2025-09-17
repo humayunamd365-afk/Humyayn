@@ -73,9 +73,6 @@ https://live.dinesh29.com.np/stream/jiotvplus/nationalgeographichd/master.m3u8
 
 🧩🧩🧩🧩🧩Entertainment🧩🧩🧩🧩🧩
 
-#EXTINF:1 tvg-name="Sonic Hindi 📺" tvg-logo="https://i.ibb.co.com/RGJpzZh9/1000022981.jpg" group-title="Cartoon🧸",&TV HD
-https://tiger-hub.vercel.app/&TV/tracks-v1a1/mono.ts.m3u8
-
 
 #EXTINF:-1 tvg-id="101" tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-1459.jpg" group-title="All-In-One~ENT🧩",1.GOLDMINES 📡
 https://cdn-2.pishow.tv/live/1459/master.m3u8
@@ -350,6 +347,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 #EXTINF:-1 tvg-id="98" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png" group-title="Akash Go🇧🇩",Somoy  📺
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1
+
+#EXTINF:1 tvg-name="Sonic Hindi 📺" tvg-logo="https://i.ibb.co.com/RGJpzZh9/1000022981.jpg" group-title="Cartoon🧸",&TV HD
+https://tiger-hub.vercel.app/&TV/tracks-v1a1/mono.ts.m3u8
 
 
 Toffee Channels 🇧🇩🇧🇩🇮🇳🇮🇳
