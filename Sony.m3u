@@ -25,8 +25,8 @@ https://tiger-hub.vercel.app/SONY/Pix/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-logo="https://i.postimg.cc/t4g4cy4Z/SONY-BBC-EARTH.png" group-title="SonyLIV(Humayun)",Sony BBC Earth HD
 https://tiger-hub.vercel.app/SONY/BBC-Earth-Eng/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-logo="https://i.postimg.cc/d00sTpK0/SONY-SPORTS-TEN-1-HD.png" group-title="SonyLIV(Humayun)",Sony Sports Ten 1 HD
-http://203.18.159.115:8081/SONYSPORTS1HD/index.m3u8
 https://tiger-hub.vercel.app/SONY/Sports-1/tracks-v1a1/mono.ts.m3u8
+http://203.18.159.115:8081/SONYSPORTS1HD/index.m3u8
 #EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-logo="https://i.postimg.cc/wvfsmLrC/SONY-SPORTS-TEN-2-HD.png" group-title="SonyLIV(Humayun)",Sony Sports Ten 2 HD
 https://tiger-hub.vercel.app/SONY/Sports-2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-logo="https://i.postimg.cc/2SGvDswj/SONY-SPORTS-TEN-3-HD.png" group-title="SonyLIV(Humayun)",Sony Sports Ten 3 HD
@@ -296,14 +296,13 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 Toffee Channels 🇧🇩🇧🇩🇮🇳🇮🇳
 
-
-
-
 #EXTINF:-1 group-title="Toffee🇧🇩" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png",TOFFEE Sports VIP 📺
-
+http://103.73.107.122:3255/TSportsHD/index.m3u8
 #EXTINF:-1 group-title="Toffee🇧🇩" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_724353001725875591.png",TOFFEE Movies VIP 📺
 
 #EXTINF:-1 group-title="Toffee🇧🇩" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_764950001725875605.png",TOFFEE Dramas VIP 📺
+http://fast.luckonline.eu/live/2Nw6SArNhs/9754302190/578.m3u8
+
 
 #EXTINF:-1 group-title="Toffee🇧🇩" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png",Sony Aat VIP 📺
 http://app.hughag.store/api/b6a720edea/playlist.m3u8
