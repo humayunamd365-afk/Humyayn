@@ -146,48 +146,6 @@ https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://a.jsrdn.com/hls/23215/tara-tv/thumbh_20250401_184428.jpg" group-title="All-In-One~ENT🧩",Tara Tv 📡
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tara-tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://a.jsrdn.com/hls/23049/pitaara-tv/thumbh_20220404_171745.jpg" group-title="All-In-One~ENT🧩",Pitaara TV 📡
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pitaara-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-classic/thumbh_20220801_200458.jpg" group-title="All-In-One~ENT🧩",Bollywood Classic 📡
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-hd/thumbh_20240521_223614.jpg" group-title="All-In-One~ENT🧩",Bollywood HD 📡
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://a.jsrdn.com/hls/23141/shemaroo-bollywood/thumbh_20240206_185308.jpg" group-title="All-In-One~ENT🧩",Shemaroo Bollywood 📡
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/master.m3u8
-#EXTINF:1 tvg-name="Star Bharat" tvg-logo="https://i.ibb.co/whCNNGwM/images-1.jpg" group-title="All-In-One~ENT🧩",Star Bharat 📡
-https://tiger-hub.vercel.app/Star-Barat/tracks-v1a1/mono.ts.m3u8
-#EXTINF:1 tvg-name="Star Gold_HD" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargold.png" group-title="All-In-One~ENT🧩",Star Gold_HD 📡
-https://tiger-hub.vercel.app/Star-Gold/tracks-v1a1/mono.ts.m3u8
-#EXTINF:1 tvg-name="Star Gold Select_HD" tvg-logo="https://i.ibb.co.com/0VBv8T8q/stargoldselect-HD.webp" group-title="All-In-One~ENT🧩",Star Gold Select_HD 📡
-https://tiger-hub.vercel.app/Star-gold__Select/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="zee-action" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lopgzj.png" group-title="All-In-One~ENT🧩",Zee Action 📡
-https://tiger-hub.vercel.app/Zee--_action-/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="-pictures" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/xdksem.png" group-title="All-In-One~ENT🧩",& Pictures (And Pictures) 📡
-https://tiger-hub.vercel.app/&Picture/tracks-v1a1/mono.ts.m3u8
-#EXTINF:1 tvg-name="Colors HD" tvg-logo="https://i.ibb.co/MyhYQF75/images-1.jpg" group-title="All-In-One~ENT🧩",Colors_HD 📡
-https://tiger-hub.vercel.app/Colors-TV/tracks-v1a1/mono.ts.m3u8
-#EXTINF:1 tvg-name="Colors Sinplex HD" tvg-logo="https://i.ibb.co.com/Mz0MyF7/IMG-20250820-082600-199.jpg" group-title="All-In-One~ENT🧩",Colors Sineplex_HD 📡
-https://tiger-hub.vercel.app/Colors-Cineplex/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="zee-tv" tvg-name="Zee TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/qsrytm.png" tvg-chno="zee-tv" group-title="All-In-One~ENT🧩",Zee TV 📡
-https://tiger-hub.vercel.app/Zee___tv-/tracks-v1a1/mono.ts.m3u8
-#EXTINF:1 tvg-name="Zing" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/97fd3820-fe52-40f2-abab-342b55524a15_180x180_zing.jpg" group-title="All-In-One~ENT🧩",Zing 📡
-https://tiger-hub.vercel.app/Zi-ng_/tracks-v1a1/mono.ts.m3u8
-#EXTINF:1 tvg-name="And TV HD" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/fdbce76d-b5f0-42c1-b2e6-63b1c22f0d68_180x180_andtv.jpg" group-title="All-In-One~ENT🧩",And TV HD 📡
-https://tiger-hub.vercel.app/&TV/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Jalsha-movies.png" group-title="All-In-One~ENT🧩",Jalsha Movies_sd 📡 (Televizo ✔️)
-https://live.dinesh29.com.np/stream/jiotvplus/jalshamovies/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/F44Jzq94/IMG-20250809-184734-877.jpg" group-title="All-In-One~ENT🧩",Jalsha Movies_HD 📡 (Televizo ✔️) 
-https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
-#EXTINF:1 tvg-name="Star Jalsha_sd" tvg-logo="https://i.ibb.co.com/zLPFzmb/images-7.jpg" group-title="All-In-One~ENT🧩",Star Jalsha_sd 📡 (Televizo ✔️)
-https://live.dinesh29.com.np/stream/jiotvplus/starjalsha/master.m3u8
-#EXTINF:1 tvg-name="Star Jalsha_hd" tvg-logo="https://i.ibb.co.com/rRmqLFhP/images-11.jpg" group-title="All-In-One~ENT🧩",Star Jalsha_HD 📡 (Televizo ✔️)
-https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/master.m3u8
-#EXTINF:1 tvg-name="Colors Bangla Cinema 📡 (ENTERTAINMENT)" tvg-logo="https://i.ibb.co/zhzw1sQX/images-2.jpg" group-title="All-In-One~ENT🧩",Colors Bangla Cinema 📡
-
-#EXTINF:1 tvg-name="Colors Sinplex" tvg-logo="https://i.ibb.co.com/Wptn1yCP/IMG-20250818-124211.jpg" group-title="All-In-One~ENT🧩",Colors Sineplex_sd 📡
-
-#EXTINF:1 tvg-name="Colors Sinplex bollywood" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorscineplexbollywood.png" group-title="All-In-One~ENT🧩",Sineplex Bollywood 📡
 
 #EXTINF:-1 tvg-id="Colors bangla_sd" tvg-logo="https://i.ibb.co.com/1GbDc1yF/IMG-20250817-222758-679.jpg" group-title="All-In-One~ENT🧩",Colors Bangla_sd 📡
 
@@ -222,6 +180,104 @@ https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/master.m3u8
 #EXTINF:-1 tvg-id="sony-pal" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/udytjy.png" group-title="All-In-One~ENT🧩",Sony Pal 📡
 
 #EXTINF:1
+
+
+#EXTINF:-1 tvg-id="starjalsha" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starjalsha.png" group-title="All-In-One~ENT🧩",Star Jalsha 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/starjalsha/master.m3u8
+#EXTINF:-1 tvg-id="starjalshahd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starjalshahd.png" group-title="All-In-One~ENT🧩",Star Jalsha HD 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/master.m3u8
+#EXTINF:-1 tvg-id="jalshamovies" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/jalshamovies.png" group-title="All-In-One~ENT🧩",Jalsha Movies 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/jalshamovies/master.m3u8
+#EXTINF:-1 tvg-id="jalshamovieshd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/jalshamovieshd.png" group-title="All-In-One~ENT🧩",Jalsha Movies HD 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
+#EXTINF:-1 tvg-id="starplus" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starplus.png" group-title="All-In-One~ENT🧩",Star Plus 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/starplus/master.m3u8
+#EXTINF:-1 tvg-id="starplushd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starplushd.png" group-title="All-In-One~ENT🧩",Star Plus HD 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/starplushd/master.m3u8
+#EXTINF:-1 tvg-id="stargold" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargold.png" group-title="All-In-One~ENT🧩",Star Gold 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/stargold/master.m3u8
+#EXTINF:-1 tvg-id="stargoldhd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargoldhd.png" group-title="All-In-One~ENT🧩",Star Gold HD 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/stargoldhd/master.m3u8
+#EXTINF:-1 tvg-id="stargold2" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargold2.png" group-title="All-In-One~ENT🧩",Star Gold 2 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/stargold2/master.m3u8
+#EXTINF:-1 tvg-id="stargold2hd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargold2hd.png" group-title="All-In-One~ENT🧩",Star Gold 2 HD 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/stargold2hd/master.m3u8
+#EXTINF:-1 tvg-id="stargoldselect" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargoldselect.png" group-title="All-In-One~ENT🧩",Star Gold Select 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/stargoldselect/master.m3u8
+#EXTINF:-1 tvg-id="stargoldselecthd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargoldselecthd.png" group-title="All-In-One~ENT🧩",Star Gold Select HD 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/stargoldselecthd/master.m3u8
+#EXTINF:-1 tvg-id="stargoldromance" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargoldromance.png" group-title="All-In-One~ENT🧩",Star Gold Romance 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/stargoldromance/master.m3u8
+#EXTINF:-1 tvg-id="stargoldthrills" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargoldthrills.png" group-title="All-In-One~ENT🧩",Star Gold Thrills 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/stargoldthrills/master.m3u8
+#EXTINF:-1 tvg-id="starbharat" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starbharat.png" group-title="All-In-One~ENT🧩",Star Bharat 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/starbharat/master.m3u8
+#EXTINF:-1 tvg-id="starutsav" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starutsav.png" group-title="All-In-One~ENT🧩",Star Utsav 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/starutsav/master.m3u8
+#EXTINF:-1 tvg-id="starutsavmovies" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starutsavmovies.png" group-title="All-In-One~ENT🧩",Star Utsav Movies 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/starutsavmovies/master.m3u8
+#EXTINF:-1 tvg-id="starpravahhd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starpravahhd.png" group-title="All-In-One~ENT🧩",Star Pravah HD 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/starpravahhd/master.m3u8
+#EXTINF:-1 tvg-id="starpravah" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starpravah.png" group-title="All-In-One~ENT🧩",Star Pravah 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/starpravah/master.m3u8
+#EXTINF:-1 tvg-id="starvijay" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starvijay.png" group-title="All-In-One~ENT🧩",Star Vijay 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/starvijay/master.m3u8
+#EXTINF:-1 tvg-id="starmaa" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starmaa.png" group-title="All-In-One~ENT🧩",Star Maa 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/starmaa/master.m3u8
+#EXTINF:-1 tvg-id="maagold" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/maagold.png" group-title="All-In-One~ENT🧩",Maa Gold 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/maagold/master.m3u8
+#EXTINF:-1 tvg-id="maamovieshd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/maamovieshd.png" group-title="All-In-One~ENT🧩",Maa Movies HD 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/maamovieshd/master.m3u8
+#EXTINF:-1 tvg-id="maamovies" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/maamovies.png" group-title="All-In-One~ENT🧩",Maa Movies 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/maamovies/master.m3u8
+#EXTINF:-1 tvg-id="suvarnaplus" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/suvarnaplus.png" group-title="All-In-One~ENT🧩",Suvarna Plus 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/suvarnaplus/master.m3u8
+#EXTINF:-1 tvg-id="starpravahpicture" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starpravahpicture.png" group-title="All-In-One~ENT🧩",Star Pravah Picture 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/starpravahpicture/master.m3u8
+#EXTINF:-1 tvg-id="starpravahpicturehd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starpravahpicturehd.png" group-title="All-In-One~ENT🧩",Star Pravah Picture HD 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/starpravahpicturehd/master.m3u8
+#EXTINF:-1 tvg-id="vijaysuperhd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/vijaysuperhd.png" group-title="All-In-One~ENT🧩",Vijay Super HD 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/vijaysuperhd/master.m3u8
+#EXTINF:-1 tvg-id="vijaytakkar" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/vijaytakkar.png" group-title="All-In-One~ENT🧩",Vijay Takkar 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/vijaytakkar/master.m3u8
+
+#EXTINF:-1 tvg-id="colorsbanglasd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorsbanglasd.png" group-title="All-In-One~ENT🧩",Colors Bangla SD 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/colorsbanglasd/master.m3u8
+#EXTINF:-1 tvg-id="colorsbengalihd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorsbengalihd.png" group-title="All-In-One~ENT🧩",Colors Bengali HD 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/colorsbengalihd/master.m3u8
+#EXTINF:-1 tvg-id="colorsbanglacinema" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorsbanglacinema.png" group-title="All-In-One~ENT🧩",Colors Bangla Cinema 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/colorsbanglacinema/master.m3u8
+#EXTINF:-1 tvg-id="colorscineplexsuperhit" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorscineplexsuperhit.png" group-title="All-In-One~ENT🧩",Colors Cineplex Superhit 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/colorscineplexsuperhit/master.m3u8
+#EXTINF:-1 tvg-id="colorscineplexbollywood" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorscineplexbollywood.png" group-title="All-In-One~ENT🧩",Colors Cineplex Bollywood 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/colorscineplexbollywood/master.m3u8
+#EXTINF:-1 tvg-id="colorssd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorssd.png" group-title="All-In-One~ENT🧩",Colors SD 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/colorssd/master.m3u8
+#EXTINF:-1 tvg-id="colorshd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorshd.png" group-title="All-In-One~ENT🧩",Colors HD 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/colorshd/master.m3u8
+#EXTINF:-1 tvg-id="colorsinfinitysd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorsinfinitysd.png" group-title="All-In-One~ENT🧩",Colors Infinity SD 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/colorsinfinitysd/master.m3u8
+#EXTINF:-1 tvg-id="colorsinfinityhd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorsinfinityhd.png" group-title="All-In-One~ENT🧩",Colors Infinity HD 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/colorsinfinityhd/master.m3u8
+#EXTINF:-1 tvg-id="colorssuper" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorssuper.png" group-title="All-In-One~ENT🧩",Colors Super 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/colorssuper/master.m3u8
+#EXTINF:-1 tvg-id="colorsgujarati" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorsgujarati.png" group-title="All-In-One~ENT🧩",Colors Gujarati 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/colorsgujarati/master.m3u8
+#EXTINF:-1 tvg-id="colorsmarathisd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorsmarathisd.png" group-title="All-In-One~ENT🧩",Colors Marathi SD 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/colorsmarathisd/master.m3u8
+#EXTINF:-1 tvg-id="colorsmarathihd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorsmarathihd.png" group-title="All-In-One~ENT🧩",Colors Marathi HD 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/colorsmarathihd/master.m3u8
+#EXTINF:-1 tvg-id="colorskannadahd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorskannadahd.png" group-title="All-In-One~ENT🧩",Colors Kannada HD 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/colorskannadahd/master.m3u8
+
+#EXTINF:-1 tvg-id="starmovieshd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starmovieshd.png" group-title="All-In-One~ENT🧩",Star Movies HD 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/starmovieshd/master.m3u8
+#EXTINF:-1 tvg-id="starmoviesselecthd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starmoviesselecthd.png" group-title="All-In-One~ENT🧩",Star Movies Select HD 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselecthd/master.m3u8
+#EXTINF:-1 tvg-id="starmoviesselect" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starmoviesselect.png" group-title="All-In-One~ENT🧩",Star Movies Select 📡 (Televizo ✔️)
+https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselect/master.m3u8
+#EXTINF:-1
+
 
 
 
