@@ -139,7 +139,7 @@ http://212.102.34.8:9080/Pitaara/index.m3u8
 #EXTINF:1 tvg-name="Sun Bangla" tvg-logo="https://i.ibb.co.com/S79DbBN7/images-1.jpg" group-title="All-In-One~ENT🧩",Sun Bangla 📡 
 https://smart.bengaldigital.live/sun-bangla-paid/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="-tv" tvg-name="& TV (And TV)" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ipckcm.png" tvg-chno="-tv" group-title="All-In-One~ENT🧩",& TV (And TV) 📡
-https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+
 #EXTINF:1 tvg-name="Movie Drama" tvg-logo="https://i.ibb.co.com/gbXcCCYS/images-1.jpg" group-title="All-In-One~ENT🧩",Movie Drama 📡
 https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
 #EXTINF:1 tvg-name="All Time Movies" tvg-logo="https://i.ibb.co.com/Mk3fjMDf/images.jpg" group-title="All-In-One~ENT🧩",All Time Movies 📡
