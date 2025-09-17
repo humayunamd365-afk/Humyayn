@@ -37,9 +37,6 @@ http://203.18.159.115:8081/SONYSPORTS1HD/index.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-logo="https://i.postimg.cc/xCzcchKz/SONY-SPORTS-TEN-5-HD.png" group-title="SonyLIV(Humayun)",Sony Sports Ten 5 HD
 https://tiger-hub.vercel.app/SONY/Sports-5/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:1 tvg-name="Sonic Hindi 📺" tvg-logo="https://i.ibb.co.com/RGJpzZh9/1000022981.jpg" group-title="Cartoon🧸",&TV HD
-https://tiger-hub.vercel.app/&TV/tracks-v1a1/mono.ts.m3u8
-
 🏞️🏞️🏞️🏞️🏞️🏞️🏞️🏞️Discovery🏞️🏞️🏞️🏞️🏞️🏞️🏞️🏞️
 
 
@@ -76,6 +73,8 @@ https://live.dinesh29.com.np/stream/jiotvplus/nationalgeographichd/master.m3u8
 
 🧩🧩🧩🧩🧩Entertainment🧩🧩🧩🧩🧩
 
+#EXTINF:1 tvg-name="Sonic Hindi 📺" tvg-logo="https://i.ibb.co.com/RGJpzZh9/1000022981.jpg" group-title="Cartoon🧸",&TV HD
+https://tiger-hub.vercel.app/&TV/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-id="101" tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-1459.jpg" group-title="All-In-One~ENT🧩",1.GOLDMINES 📡
