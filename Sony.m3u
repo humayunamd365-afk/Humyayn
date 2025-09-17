@@ -37,6 +37,8 @@ http://203.18.159.115:8081/SONYSPORTS1HD/index.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-logo="https://i.postimg.cc/xCzcchKz/SONY-SPORTS-TEN-5-HD.png" group-title="SonyLIV(Humayun)",Sony Sports Ten 5 HD
 https://tiger-hub.vercel.app/SONY/Sports-5/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:1 tvg-name="Sonic Hindi 📺" tvg-logo="https://i.ibb.co.com/RGJpzZh9/1000022981.jpg" group-title="Cartoon🧸",&TV HD
+https://tiger-hub.vercel.app/&TV/tracks-v1a1/mono.ts.m3u8
 
 🏞️🏞️🏞️🏞️🏞️🏞️🏞️🏞️Discovery🏞️🏞️🏞️🏞️🏞️🏞️🏞️🏞️
 
@@ -544,8 +546,6 @@ http://tv.bdiptv.store/live/restreauuX58/refstream/96.m3u8
 http://tv.bdiptv.store/live/restreauuX58/refstream/242.m3u8
 #EXTINF:1 tvg-name="Nick Hindi" tvg-logo="https://i.ibb.co/CKtZz8M1/images.png" group-title="Cartoon🧸",Nick Hindi 📺(Kids)
 
-#EXTINF:1 tvg-name="Sonic Hindi 📺" tvg-logo="https://i.ibb.co.com/RGJpzZh9/1000022981.jpg" group-title="Cartoon🧸",&TV HD
-https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:1 tvg-name="Disney Channel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="Cartoon🧸",Disney Channel_HD 📺 (kids)
 https://stream.himelop-pro.top/vm/disneyop.m3u8
 #EXTINF:1 tvg-name="Disney Hindi HD" tvg-logo="https://i.ibb.co.com/7xDwTqRr/images-4.jpg" group-title="Cartoon🧸",Disney Hindi_sd 📺 (kids)
