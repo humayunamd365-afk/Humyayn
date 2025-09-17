@@ -138,7 +138,6 @@ http://158.69.24.53:8080/probashi_tv/tracks-v1a1/mono.m3u8
 http://212.102.34.8:9080/Pitaara/index.m3u8
 #EXTINF:1 tvg-name="Sun Bangla" tvg-logo="https://i.ibb.co.com/S79DbBN7/images-1.jpg" group-title="All-In-One~ENT🧩",Sun Bangla 📡 
 https://smart.bengaldigital.live/sun-bangla-paid/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="-tv" tvg-name="& TV (And TV)" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ipckcm.png" tvg-chno="-tv" group-title="All-In-One~ENT🧩",& TV (And TV) 📡
 
 #EXTINF:1 tvg-name="Movie Drama" tvg-logo="https://i.ibb.co.com/gbXcCCYS/images-1.jpg" group-title="All-In-One~ENT🧩",Movie Drama 📡
 https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
