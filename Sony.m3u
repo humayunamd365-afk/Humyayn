@@ -347,9 +347,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1
 
-#EXTINF:1 tvg-name="And TV" tvg-logo="https://i.ibb.co.com/RGJpzZh9/1000022981.jpg" group-title="Akash Go🇧🇩",&Tv HD
-https://tiger-hub.vercel.app/&TV/tracks-v1a1/mono.ts.m3u8
-
 
 Toffee Channels 🇧🇩🇧🇩🇮🇳🇮🇳
 
@@ -711,3 +708,9 @@ http://b1g.ooo/Arun/123456/385215
 http://b1g.ooo/Arun/123456/385214
 #EXTINF:-1 tvg-id="385213" tvg-name="CineMania Bollywood 34 FHD" tvg-logo="http://b1g.fun/logos2/CineMania_bollywood.jpg" group-title="24/7 CineMania",CineMania Bollywood 34 FHD
 http://b1g.ooo/Arun/123456/385213
+
+Favourite 
+
+#EXTINF:1 tvg-name="And TV" tvg-logo="https://i.ibb.co.com/RGJpzZh9/1000022981.jpg" group-title="Favourite",&Tv HD
+https://tiger-hub.vercel.app/&TV/tracks-v1a1/mono.ts.m3u8
+
