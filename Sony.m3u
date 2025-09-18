@@ -347,7 +347,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1
 
-#EXTINF:1 tvg-name="&TV" tvg-logo="https://i.ibb.co.com/RGJpzZh9/1000022981.jpg" group-title="Akash Go🇧🇩",&Tv HD
+#EXTINF:1 tvg-name="And TV" tvg-logo="https://i.ibb.co.com/RGJpzZh9/1000022981.jpg" group-title="Akash Go🇧🇩",&Tv HD
 https://tiger-hub.vercel.app/&TV/tracks-v1a1/mono.ts.m3u8
 
 
