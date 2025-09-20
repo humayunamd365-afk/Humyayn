@@ -12,7 +12,7 @@ https://tataplay.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8
 #EXTINF:-1 tvg-id="sony-pal" tvg-logo="https://i.postimg.cc/nrQ6V7MG/SONY-PAL.png" group-title="SonyLIV(Humayun)",Sony Pal
 https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="SonyLIV(Humayun)",Sony Aath
-https://tiger-hub.vercel.app/SONY/Aath/tracks-v1a1/mono.ts.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 #EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://i.postimg.cc/qRxtS9Gy/SONY-YAY.png" group-title="SonyLIV(Humayun)",Sony Yay
 https://tiger-hub.vercel.app/SONY/YAY/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://i.postimg.cc/XYF71G8F/SONY-MAX-HD.png" group-title="SonyLIV(Humayun)",Sony MAX HD
@@ -28,6 +28,7 @@ https://tiger-hub.vercel.app/SONY/Pix/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-logo="https://i.postimg.cc/t4g4cy4Z/SONY-BBC-EARTH.png" group-title="SonyLIV(Humayun)",Sony BBC Earth HD
 https://tiger-hub.vercel.app/SONY/BBC-Earth-Eng/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-logo="https://i.postimg.cc/d00sTpK0/SONY-SPORTS-TEN-1-HD.png" group-title="SonyLIV(Humayun)",Sony Sports Ten 1 HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/13352.ts
 http://203.18.159.115:8081/SONYSPORTS1_HD/index.m3u8
 #EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-logo="https://i.postimg.cc/wvfsmLrC/SONY-SPORTS-TEN-2-HD.png" group-title="SonyLIV(Humayun)",Sony Sports Ten 2 HD
 http://203.18.159.115:8081/SONYSPORTS2HD/index.m3u8
