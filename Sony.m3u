@@ -36,7 +36,7 @@ http://203.18.159.115:8081/SONYSPORTS3/index.m3u8
 #EXTINF:-1 tvg-id="Willow hd" tvg-logo="https://i.ibb.co.com/Z4V1k4Y/IMG-20250807-211342.jpg" group-title="SonyLIV(Humayun)",Willow HD
 https://abfdm2saaaaaaaamljqrv7ybrrx7h.47348d5020154bfaac6dd4418cd23c5d.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/0oqh0y6l83/out/v1/af24bcc772a84448a8744afc0ea54516/cenc.mpd?|drmScheme=clearkey&drmLicense=710c7c867926f586aeeace45efd6bcef:cb91ff3249c860f50df406861db0ea69
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-logo="https://i.postimg.cc/xCzcchKz/SONY-SPORTS-TEN-5-HD.png" group-title="SonyLIV(Humayun)",Sony Sports Ten 5 HD
-https://dai.google.com/ssai/event/noB3YwyRQVm5K-y_47MrBA/master.m3u8
+
 
 🏞️🏞️🏞️🏞️🏞️🏞️🏞️🏞️Discovery🏞️🏞️🏞️🏞️🏞️🏞️🏞️🏞️
 
@@ -494,7 +494,7 @@ Kids👦🏻👦🏻
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vvcckpkW/4d9f95ffa96d.jpg" group-title="Cartoon🧸",CHUMBAK TV 📺(Kids)
-https://cdn-1.pishow.tv/live/1451/master.m3u8
+https://dai.google.com/ssai/event/noB3YwyRQVm5K-y_47MrBA/master.m3u8
 #EXTINF:1 tvg-name="Duronto Tv" tvg-logo="https://i.ibb.co.com/xqyP9fWP/IMG-20250808-081232.jpg" group-title="Cartoon🧸",Duronto Tv 📺(Kids)
 #http://tv.bdiptv.store/live/restreauuX58/refstream/109.m3u8
 http://103.122.252.100:8080/DURONTO-TV/index.m3u8
