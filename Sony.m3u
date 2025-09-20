@@ -34,7 +34,7 @@ http://203.18.159.115:8081/SONYSPORTS2HD/index.m3u8
 #EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-logo="https://i.postimg.cc/2SGvDswj/SONY-SPORTS-TEN-3-HD.png" group-title="SonyLIV(Humayun)",Sony Sports Ten 3 HD
 http://203.18.159.115:8081/SONYSPORTS3/index.m3u8
 #EXTINF:-1 tvg-id="Cup" tvg-logo="https://i.ibb.co.com/Z4V1k4Y/IMG-20250807-211342.jpg" group-title="SonyLIV(Humayun)", Asia
-http://nayatv.ydns.eu:80/xfireflix/flixfire/13365.ts48a8744afc0ea54516/cenc.mpd?|drmScheme=clearkey&drmLicense=710c7c867926f586aeeace45efd6bcef:cb91ff3249c860f50df406861db0ea69
+45efd6bcef:cb91ff3249c860f50df406861db0ea69
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-logo="https://i.postimg.cc/xCzcchKz/SONY-SPORTS-TEN-5-HD.png" group-title="SonyLIV(Humayun)",Sony Sports Ten 5 HD
 http://203.18.159.115:8081/SONYSPORTS1_HD/index.m3u8
 
@@ -684,3 +684,6 @@ http://188.241.219.62/live/wUz0KMd7Op/xUfbRh2BH5/98853.ts?play_token=V8WnJOg9to&
 
 #EXTINF:1 tvg-name="Nat Geo" tvg-logo="" group-title="4K",Nat Geo
 http://188.241.218.163/live/wUz0KMd7Op/TY5SO8sGJd/98874.ts?play_token=f6v4eluqlP&token=ShJcU0BbQQNHDQAOUgIEX1gEAgNRUAFZCFpUVQZTA1AFUwJTBwVWClcbGBpEF0dcWF1vWQIXXlgJWlUDSUZGQVRCa1tXEVkbVAgDCwFRBRsVEkRZC1BGWwBVVw9UXAsACAcYEENaBxtfGwUABlMDDw8SHBIDTRAEQwwDWzoAVkRYU1EQCV0WVQkVFldZPFFcVFFeVEQPRlETTkBeFhQRCF9FWF4fEQFQEUtVTFJBDxsMBAQJRBlGAl4XDEMXHREIE2VnEB8RBkERXFpLXgxbGwMSRENEGUYIQj0QUhYQQVdQXVFAEQlBCUcVFlVWG2paVl5eVQVBDQ5fEUANR1URHhNdW1xaRwxLOkldXBVZFwgNAwEHREg=
+
+EXTINF:1 tvg-name="Cricket" tvg-logo="" group-title="4K",CricketHD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/13365.ts48a8744afc0ea54516/cenc.mpd?|drmScheme=clearkey&drmLicense=710c7c867926f586aeeaceF0dcWF1vWQIXXlgJWlUDSUZGQVRCa1tXEVkbVAgDCwFRBRsVEkRZC1BGWwBVVw9UXAsACAcYEENaBxtfGwUABlMDDw8SHBIDTRAEQwwDWzoAVkRYU1EQCV0WVQkVFldZPFFcVFFeVEQPRlETTkBeFhQRCF9FWF4fEQFQEUtVTFJBDxsMBAQJRBlGAl4XDEMXHREIE2VnEB8RBkERXFpLXgxbGwMSRENEGUYIQj0QUhYQQVdQXVFAEQlBCUcVFlVWG2paVl5eVQVBDQ5fEUANR1URHhNdW1xaRwxLOkldXBVZFwgNAwEHREg=
