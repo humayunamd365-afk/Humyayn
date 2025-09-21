@@ -3,41 +3,40 @@
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://i.postimg.cc/xCV0N1yy/SONY-SET-HD.png" group-title="SonyLIV(Humayun)",SET HD
 https://tiger-hub.vercel.app/SONY/Entertainment/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://i.postimg.cc/HLrGvfHN/SONY-SAB-HD.png" group-title="SonyLIV(Humayun)",Sony SAB HD
-http://mxonlive-001-site1.qtempurl.com/live/filex.php?id=25
-http://mxonlive-001-site1.qtempurl.com/live/filex.php?id=275044
+https://dtvxtream.com/sonyliv2/300267.m3u8
 https://tiger-hub.vercel.app/SONY/SAB/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="sony-sab-UK" tvg-logo="https://i.postimg.cc/HLrGvfHN/SONY-SAB-HD.png" group-title="SonyLIV(Humayun)",Sony SAB UK
 https://tiger-hub.vercel.app/SONY/SAB-UK/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="sony-marathi" tvg-logo="https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png" group-title="SonyLIV(Humayun)",Sony Marathi
 https://tataplay.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8
 #EXTINF:-1 tvg-id="sony-pal" tvg-logo="https://i.postimg.cc/nrQ6V7MG/SONY-PAL.png" group-title="SonyLIV(Humayun)",Sony Pal
-https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
+https://dtvxtream.com/sonyliv2/300268.m3u8
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="SonyLIV(Humayun)",Sony Aath
 https://tiger-hub.vercel.app/SONY/Aath/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://i.postimg.cc/qRxtS9Gy/SONY-YAY.png" group-title="SonyLIV(Humayun)",Sony Yay
-https://tiger-hub.vercel.app/SONY/YAY/tracks-v1a1/mono.ts.m3u8
+https://dtvxtream.com/sonyliv2/300270.m3u8
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://i.postimg.cc/XYF71G8F/SONY-MAX-HD.png" group-title="SonyLIV(Humayun)",Sony MAX HD
-https://tiger-hub.vercel.app/SONY/Max/tracks-v1a1/mono.ts.m3u8
+https://dtvxtream.com/sonyliv2/300266.m3u8
 #EXTINF:-1 tvg-id="sony-max" tvg-logo="https://i.postimg.cc/X7MmrgCs/SONY-MAX.png" group-title="SonyLIV(Humayun)",Sony MAX
 https://tiger-hub.vercel.app/SONY/MaxUK/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="sony-max-2" tvg-logo="https://i.ibb.co/1J6WbVdP/image.png" group-title="SonyLIV(Humayun)",Sony MAX 2
 https://tiger-hub.vercel.app/SONY/Max2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="sony-wah" tvg-logo="https://i.ibb.co/6cTpMGPF/Sony-Wah.png" group-title="SonyLIV(Humayun)",Sony WAH
-https://tiger-hub.vercel.app/SONY/Wah/tracks-v1a1/mono.ts.m3u8
+https://dtvxtream.com/sonyliv2/300269.m3u8
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://i.postimg.cc/hGYnSKpg/SONY-PIX-HD.png" group-title="SonyLIV(Humayun)",Sony PIX HD
 https://tiger-hub.vercel.app/SONY/Pix/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-logo="https://i.postimg.cc/t4g4cy4Z/SONY-BBC-EARTH.png" group-title="SonyLIV(Humayun)",Sony BBC Earth HD
 https://tiger-hub.vercel.app/SONY/BBC_Earth/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-logo="https://i.postimg.cc/d00sTpK0/SONY-SPORTS-TEN-1-HD.png" group-title="SonyLIV(Humayun)",Sony Sports Ten 1 HD
-http://nayatv.ydns.eu:80/xfireflix/flixfire/13352.ts
+https://dtvxtream.com/sonyliv2/300256.m3u8
 #EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-logo="https://i.postimg.cc/wvfsmLrC/SONY-SPORTS-TEN-2-HD.png" group-title="SonyLIV(Humayun)",Sony Sports Ten 2 HD
-http://203.18.159.115:8081/SONYSPORTS2HD/index.m3u8
+https://dtvxtream.com/sonyliv2/300273.m3u8
 #EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-logo="https://i.postimg.cc/2SGvDswj/SONY-SPORTS-TEN-3-HD.png" group-title="SonyLIV(Humayun)",Sony Sports Ten 3 HD
-http://203.18.159.115:8081/SONYSPORTS3/index.m3u8
-#EXTINF:-1 tvg-id="Cup" tvg-logo="https://i.ibb.co.com/Z4V1k4Y/IMG-20250807-211342.jpg" group-title="SonyLIV(Humayun)", Asia
-45efd6bcef:cb91ff3249c860f50df406861db0ea69
+https://dtvxtream.com/sonyliv2/300255.m3u8
+#EXTINF:-1 tvg-id="sony-ten-4-hd" tvg-logo="https://i.ibb.co.com/Z4V1k4Y/IMG-20250807-211342.jpg" group-title="SonyLIV(Humayun)",Sony Sports 4 HD
+https://dtvxtream.com/sonyliv2/301738.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-logo="https://i.postimg.cc/xCzcchKz/SONY-SPORTS-TEN-5-HD.png" group-title="SonyLIV(Humayun)",Sony Sports Ten 5 HD
-http://203.18.159.115:8081/SONYSPORTS1_HD/index.m3u8
+https://dtvxtream.com/sonyliv2/300258.m3u8
 
 🏞️🏞️🏞️🏞️🏞️🏞️🏞️🏞️Discovery🏞️🏞️🏞️🏞️🏞️🏞️🏞️🏞️
 
