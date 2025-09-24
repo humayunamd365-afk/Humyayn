@@ -180,3 +180,10 @@ Favourite
 
 #EXTINF:1 tvg-name="And TV" tvg-logo="https://i.ibb.co.com/RGJpzZh9/1000022981.jpg" group-title="TOP Channel",&Tv HD
 https://tiger-hub.vercel.app/&TV/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:1 tvg-name="MTV" tvg-logo="" group-title="TOP Channel",&MTV
+https://tiger-hub.vercel.app/Mtv-music_hollywood/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:1 tvg-name="Kids" tvg-logo="" group-title="TOP Channel",KIDS
+https://tiger-hub.vercel.app/OSN/Kids/tracks-v1a1/mono.ts.m3u8
+
