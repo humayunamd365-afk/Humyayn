@@ -50,8 +50,8 @@ http://tv.bdiptv.store:80/live/restreauuX58y/refstream/98.m3u8
 #EXTINF:1 tvg-name="Travelxp Bangla_HD 📺" tvg-logo="https://i.ibb.co.com/4R0bm93Z/IMG-20250901-191851-383.jpg" group-title="Discovery🏞️🐘",Travelxp Bangla_HD 📺
 https://live.dinesh29.com.np/stream/jiotv/travelxphd/master.m3u8
 
-#EXTINF:1 tvg-name="Travel club" tvg-logo="https://i.ibb.co.com/bjpBGmjT/images.png" group-title="Discovery🏞️🐘",Travel club 📺
-https://network24.live:4433/Travelclub/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-name="BBC Earth" tvg-logo="https://i.ibb.co.com/bjpBGmjT/images.png" group-title="Discovery🏞️🐘",BBC Earth
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:1 tvg-name="Discovery HD World" tvg-logo="https://i.ibb.co/kvjyNJH/images.png" group-title="Discovery🏞️🐘",1.DiscoveryHD Bangla 📺
 https://allinonereborn.xyz/opplex998.m3u8?id=206296
 #EXTINF:-1 tvg-id="DiscoveryHD Bangla"tvg-logo="https://i.ibb.co/kvjyNJH/images.png" group-title="Discovery🏞️🐘",2.DiscoveryHD Bangla 📺
