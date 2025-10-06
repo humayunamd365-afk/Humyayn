@@ -229,10 +229,13 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 Favourite 
 
-#EXTINF:1 tvg-name="And TV" tvg-logo="https://i.ibb.co.com/RGJpzZh9/1000022981.jpg" group-title="TOP Channel",&Tv HD
+#EXTINF:1 tvg-name="And TV" tvg-logo="https://i.ibb.co.com/RGJpzZh9/1000022981.jpg" group-title="TOP Channel",&Tv (4K)
 https://xfireflix.fun/file/opplex/stream.m3u8?id=109952&e=.m3u8
 
 ht tps://tiger-hub.vercel.app/&TV/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:1 tvg-name="&TV" tvg-logo="https://i.ibb.co.com/RGJpzZh9/1000022981.jpg" group-title="TOP Channel",&Tv FHD
+https://xfireflix.fun/file/opplex/stream.m3u8?id=221253&e=.m3u8
 
 #EXTINF:1 tvg-name="MTV" tvg-logo="" group-title="TOP Channel",MTV
 https://tiger-hub.vercel.app/Mtv-music_hollywood/tracks-v1a1/mono.ts.m3u8
@@ -247,9 +250,12 @@ https://allinonereborn.xyz/opplex998.m3u8?id=25981
 
 
 #EXTINF:1 tvg-name="Ary digital" tvg-logo="" group-title="TOP Channel",Ary Digital HD
+https://xfireflix.fun/file/opplex/stream.m3u8?id=25989&e=.m3u8
+https://xfireflix.fun/file/opplex/stream.m3u8?id=221337&e=.m3u8
+
+
+#EXTINF:1 tvg-name="National GEO" tvg-logo="https://i.ibb.co.com/RGJpzZh9/1000022981.jpg" group-title="TOP Channel",National GEO (4K)
 https://xfireflix.fun/file/opplex/stream.m3u8?id=109977&e=.m3u8
-
-
 
 
 Entertainment
