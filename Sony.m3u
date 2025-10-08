@@ -138,9 +138,7 @@ http://203.18.159.115/Tsports-JOSH-TV/index.m3u8
 http://147.93.154.65/Bein3/index.m3u8
 
 #EXTINF:1 tvg-name="sports" tvg-logo="" group-title="Special link",Live NoW
-https://mprod-cdn.toffeelive.com/live/match-asiacup/index.m3u8",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20:Expires=1759936034:KeyName=prod_live_events:Signature=bE0YlH6IQU4p7AhP_7s-HzgbeKo25qYXQVisPnV2E19s44jjauzHH0C6vVeVliGjJIHrH1GSunj0vPRlmcg6DQ"
-  },
+https://mprod-cdn.toffeelive.com/live/match-asiacup/index.m3u8
 
 
 Islamic---
