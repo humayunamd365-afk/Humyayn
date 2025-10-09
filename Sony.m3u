@@ -1,14 +1,15 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://i.postimg.cc/xCV0N1yy/SONY-SET-HD.png" group-title="SonyLIV(Humayun)",SET HD
-https://xfireflix.fun/file/opplex/stream.m3u8?id=109948&e=.m3u8
+https://globalplay.live/sliv/v2/live.php?id=3fd99e
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://i.postimg.cc/HLrGvfHN/SONY-SAB-HD.png" group-title="SonyLIV(Humayun)",Sony SAB HD
-http://nayatv.ydns.eu:80/xfireflix/flixfire/3699.ts
+https://globalplay.live/sliv/v2/live.php?id=320821
+ht tp://nayatv.ydns.eu:80/xfireflix/flixfire/3699.ts
 https://xfire flix.fun/file/opplex/stream.m3u8?id=109953&e=.m3u8
 #EXTINF:-1 tvg-id="sony-marathi" tvg-logo="https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png" group-title="SonyLIV(Humayun)",Sony Marathi
 https://globalplay.live/sliv/live.php?id=1bec0a
 #EXTINF:-1 tvg-id="sony-pal" tvg-logo="https://i.postimg.cc/nrQ6V7MG/SONY-PAL.png" group-title="SonyLIV(Humayun)",Sony Pal
-https://xfireflix.fun/file/opplex/stream.m3u8?id=104192&e=.m3u8
+https://globalplay.live/sliv/v2/live.php?id=87ed41
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="SonyLIV(Humayun)",Sony Aath
 http://172.16.29.3:8090/hls/SonyAtth.m3u8
 #EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://i.postimg.cc/qRxtS9Gy/SONY-YAY.png" group-title="SonyLIV(Humayun)",Sony Yay
@@ -24,7 +25,7 @@ https://globalplay.live/sliv/live.php?id=980aee
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://i.postimg.cc/hGYnSKpg/SONY-PIX-HD.png" group-title="SonyLIV(Humayun)",Sony PIX HD
 https://globalplay.live/sliv/live.php?id=60557a
 #EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-logo="https://i.postimg.cc/t4g4cy4Z/SONY-BBC-EARTH.png" group-title="SonyLIV(Humayun)",Sony BBC Earth HD
-https://xfireflix.fun/file/opplex/stream.m3u8?id=109978&e=.m3u8
+https://globalplay.live/sliv/v2/live.php?id=c80a20
 #EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-logo="https://i.postimg.cc/d00sTpK0/SONY-SPORTS-TEN-1-HD.png" group-title="SonyLIV(Humayun)",Sony Sports Ten 1 HD
 https://globalplay.live/sliv/live.php?id=d3e729
 #EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-logo="https://i.postimg.cc/wvfsmLrC/SONY-SPORTS-TEN-2-HD.png" group-title="SonyLIV(Humayun)",Sony Sports Ten 2 HD
