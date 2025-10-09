@@ -134,7 +134,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-vid
 
 
 #EXTINF:1 tvg-name="Tsports" tvg-logo="" group-title="Special link",Sports
-http://203.18.159.115/Tsports-JOSH-TV/index.m3u8
+http://103.175.242.10:8080/tsports1/index.m3u8
 http://147.93.154.65/Bein3/index.m3u8
 
 #EXTINF:1 tvg-name="sports" tvg-logo="" group-title="Special link",Live NoW
