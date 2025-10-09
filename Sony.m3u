@@ -137,7 +137,7 @@ http://103.175.242.10:8080/tsports1/index.m3u8
 http://147.93.154.65/Bein3/index.m3u8
 
 #EXTINF:1 tvg-name="sports" tvg-logo="" group-title="Special link",Live NoW
-https://mprod-cdn.toffeelive.com/live/match-asiacup/index.m3u8
+http://172.16.29.3:8090/hls/tsportshd.m3u8
 
 
 Islamic---
