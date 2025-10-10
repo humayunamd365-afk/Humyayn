@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://i.postimg.cc/xCV0N1yy/SONY-SET-HD.png" group-title="SonyLIV(Humayun)",SET HD
-https://globalplay.live/sliv/v2/live.php?id=3fd99e
+globalplay.live-sliv-v2-live.php-id=3fd99e_960x540.mp4
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://i.postimg.cc/HLrGvfHN/SONY-SAB-HD.png" group-title="SonyLIV(Humayun)",Sony SAB HD
 https://globalplay.live/sliv/v2/live.php?id=320821
 #EXTINF:-1 tvg-id="sony-marathi" tvg-logo="https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png" group-title="SonyLIV(Humayun)",Sony Marathi
