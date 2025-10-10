@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://i.postimg.cc/xCV0N1yy/SONY-SET-HD.png" group-title="SonyLIV(Humayun)",SET HD
 #EXT-X-STREAM-INF:BANDWIDTH=4571600,AVERAGE-BANDWIDTH=3955600,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=25.000
-live.php?id=3fd99e
+https://globalplay.live/sliv/v2/live.php?id=3fd99e
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://i.postimg.cc/HLrGvfHN/SONY-SAB-HD.png" group-title="SonyLIV(Humayun)",Sony SAB HD
 https://globalplay.live/sliv/v2/live.php?id=320821
 #EXTINF:-1 tvg-id="sony-marathi" tvg-logo="https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png" group-title="SonyLIV(Humayun)",Sony Marathi
