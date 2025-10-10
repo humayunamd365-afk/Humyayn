@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://i.postimg.cc/xCV0N1yy/SONY-SET-HD.png" group-title="SonyLIV(Humayun)",SET HD
 #EXT-X-STREAM-INF:BANDWIDTH=4571600,AVERAGE-BANDWIDTH=3955600,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=25.000
-live.php?id=3fd99e&encchunks=Urf3zvZSP0vsPoFXTFLVrwrjwJ8IOY2MPGQFiByNI8eSNF5IZpfMs50q4shNng%2FsrQxOnrkL3FKYvtbOQ9dyOB2DsS%2BN5kgFYev10M6ju3bcGorXvIMBo3xTJN2QIw%2Fckk4wKLjNIhC61Y%2FLNEzdij%2BuhV08yX1UdWnQF35u6MfrzJPK%2F5%2FeIRuGU9O%2Fi9KQgHumcinzHhbkvt0O2mLAmi%2B%2F9kViIGtwCUAm7ondU%2FokS7beJlEj8bwKyZSn9PusENo%2BBh9nyVTOsxO1Lu1W3qPxOS297kII%2F9TmcEYkzfWirBia5AxBw39DntxOyDtGoMpYr%2FNHuZDKksxZtM1pp%2BaVQKPu6kRa2fBV4ex69MbPujYKoOsoa8VUrI6lj5I6AiF4R0MIUrboMgFDgpy3p4LBupYoJ8HHvPy%2B%2FLev40I%3D
+live.php?id=3fd99e
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://i.postimg.cc/HLrGvfHN/SONY-SAB-HD.png" group-title="SonyLIV(Humayun)",Sony SAB HD
 https://globalplay.live/sliv/v2/live.php?id=320821
 #EXTINF:-1 tvg-id="sony-marathi" tvg-logo="https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png" group-title="SonyLIV(Humayun)",Sony Marathi
