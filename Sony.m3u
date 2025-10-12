@@ -241,10 +241,8 @@ Favourite
 #EXTINF:1 tvg-name="And TV" tvg-logo="https://i.ibb.co.com/RGJpzZh9/1000022981.jpg" group-title="TOP Channel",&Tv (4K)
 https://xfireflix.fun/file/opplex/stream.m3u8?id=109952&e=.m3u8
 
-ht tps://tiger-hub.vercel.app/&TV/tracks-v1a1/mono.ts.m3u8
-
 #EXTINF:1 tvg-name="&TV" tvg-logo="https://i.ibb.co.com/RGJpzZh9/1000022981.jpg" group-title="TOP Channel",&Tv FHD
-https://xfireflix.fun/file/opplex/stream.m3u8?id=221253&e=.m3u8
+https://tiger-hub.vercel.app/&TV/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:1 tvg-name="MTV" tvg-logo="" group-title="TOP Channel",MTV
 https://tiger-hub.vercel.app/Mtv-music_hollywood/tracks-v1a1/mono.ts.m3u8
@@ -266,6 +264,7 @@ https://xfireflix.fun/file/opplex/stream.m3u8?id=109977&e=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="TOP Channel" tvg-logo="",HORROR DRAMA 24X7
 https://xfireflix.fun/file/opplex/stream.m3u8?id=368954&e=.m3u8
+#EXTINF:-1
 
 Entertainment
 
