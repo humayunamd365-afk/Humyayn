@@ -1,11 +1,11 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://i.postimg.cc/xCV0N1yy/SONY-SET-HD.png" group-title="SonyLIV(Humayun)",SET HD
-https://globalplay.live/sliv/v2/live.php?id=3fd99e
+http://opplex.to:8080/Farukh5342/Farukh@5342/109948
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://i.postimg.cc/HLrGvfHN/SONY-SAB-HD.png" group-title="SonyLIV(Humayun)",Sony SAB HD
 http://opplex.to:8080/Farukh5342/Farukh@5342/66174
 #EXTINF:-1 tvg-id="sony-marathi" tvg-logo="https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png" group-title="SonyLIV(Humayun)",Sony Marathi
-https://globalplay.live/sliv/v2/live.php?id=1bec0a
+http://opplex.to:8080/Farukh5342/Farukh@5342/109953
 #EXTINF:-1 tvg-id="sony-pal" tvg-logo="https://i.postimg.cc/nrQ6V7MG/SONY-PAL.png" group-title="SonyLIV(Humayun)",Sony Pal
 https://globalplay.live/sliv/v2/live.php?id=87ed41
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="SonyLIV(Humayun)",Sony Aath
@@ -13,7 +13,7 @@ https://globalplay.live/sliv/v2/live.php?id=429ad3
 #EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://i.postimg.cc/qRxtS9Gy/SONY-YAY.png" group-title="SonyLIV(Humayun)",Sony Yay
 https://globalplay.live/sliv/v2/live.php?id=3863e9
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://i.postimg.cc/XYF71G8F/SONY-MAX-HD.png" group-title="SonyLIV(Humayun)",Sony MAX HD
-https://globalplay.live/sliv/v2/live.php?id=b24815
+http://opplex.to:8080/Farukh5342/Farukh@5342/109957
 #EXTINF:-1 tvg-id="sony-max" tvg-logo="https://i.postimg.cc/X7MmrgCs/SONY-MAX.png" group-title="SonyLIV(Humayun)",Sony MAX
 https://globalplay.live/sliv/v2/live.php?id=095ddc
 #EXTINF:-1 tvg-id="sony-max-2" tvg-logo="https://i.ibb.co/1J6WbVdP/image.png" group-title="SonyLIV(Humayun)",Sony MAX 2
@@ -247,7 +247,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 Favourite 
 
 #EXTINF:1 tvg-name="And TV" tvg-logo="https://i.ibb.co.com/RGJpzZh9/1000022981.jpg" group-title="TOP Channel",&Tv (4K)
-https://xfireflix.fun/file/opplex/stream.m3u8?id=109952&e=.m3u8
+http://opplex.to:8080/Farukh5342/Farukh@5342/109952
 
 #EXTINF:1 tvg-name="&TV" tvg-logo="https://i.ibb.co.com/RGJpzZh9/1000022981.jpg" group-title="TOP Channel",&Tv FHD
 https://tiger-hub.vercel.app/&TV/tracks-v1a1/mono.ts.m3u8
