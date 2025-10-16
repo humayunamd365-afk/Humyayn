@@ -251,37 +251,29 @@ Favourite
 
 #EXTINF:1 tvg-name="And TV" tvg-logo="https://i.ibb.co.com/RGJpzZh9/1000022981.jpg" group-title="TOP Channel",&Tv (4K)
 http://66.102.120.18:8000/play/a01u
-
 #EXTINF:1 tvg-name="&TV" tvg-logo="https://i.ibb.co.com/RGJpzZh9/1000022981.jpg" group-title="TOP Channel",&Tv FHD
 https://tiger-hub.vercel.app/&TV/tracks-v1a1/mono.ts.m3u8
-
 #EXTINF:1 tvg-name="MTV" tvg-logo="" group-title="TOP Channel",MTV
 https://tiger-hub.vercel.app/Mtv-music_hollywood/tracks-v1a1/mono.ts.m3u8
-
 #EXTINF:1 tvg-name="Kids" tvg-logo="" group-title="TOP Channel",KIDS
 https://tiger-hub.vercel.app/OSN/Kids/tracks-v1a1/mono.ts.m3u8
-
-
 #EXTINF:1 tvg-name="HumTv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNKMmPUD_Q--lfxoPcFv3xDtljB9Fao5lonSlaNdu-Vg&s=10" group-title="TOP Channel",HumTv HD
 https://allinonereborn.xyz/opplex998.m3u8?id=221339
 https://allinonereborn.xyz/opplex998.m3u8?id=25981
 
 #EXTINF:1 tvg-name="SAB TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI9RHoiP0wDrgZpxQTuSQNhacRYQpGlJjoHDEnh-xu6w&s=10" group-title="TOP Channel",SAB TV
 http://66.102.120.18:8000/play/a035
-
 #EXTINF:1 tvg-name="Ary digital" tvg-logo="" group-title="TOP Channel",Ary Digital HD
 https://xfireflix.fun/file/opplex/stream.m3u8?id=25989&e=.m3u8
 https://xfireflix.fun/file/opplex/stream.m3u8?id=221337&e=.m3u8
 
 #EXTINF:1 tvg-name="National GEO" tvg-logo="https://i.ibb.co.com/RGJpzZh9/1000022981.jpg" group-title="TOP Channel",National GEO (4K)
 https://xfireflix.fun/file/opplex/stream.m3u8?id=109977&e=.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="TOP Channel" tvg-logo="",HORROR DRAMA 24X7
 https://xfireflix.fun/file/opplex/stream.m3u8?id=368954&e=.m3u8
 
 #EXTINF:1 tvg-name="SONY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMQVbbFpS9l2QpcX9F9Kua_QLt3vgvVWo58DnOxDObTA&s" group-title="TOP Channel",SONYLIV
 https://dai.google.com/linear/hls/event/biQJgf06SJCitj-nd502ow/master.m3u8
-
 #EXTINF:1 tvg-name="National GEO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiN7E160btQJaNgzkIkmCkmEhdr0_wb1qz1j-vnghJ3g&s=10" group-title="TOP Channel",Nat GEO (4K)
 http://66.102.120.18:8000/play/a01f
 #EXTINF:-1
