@@ -252,7 +252,7 @@ Favourite
 #EXTINF:1 tvg-name="And TV" tvg-logo="https://i.ibb.co.com/RGJpzZh9/1000022981.jpg" group-title="TOP Channel",&Tv (4K)
 http://66.102.120.18:8000/play/a01u
 #EXTINF:1 tvg-name="&TV" tvg-logo="https://i.ibb.co.com/RGJpzZh9/1000022981.jpg" group-title="TOP Channel",&Tv FHD
-https://tiger-hub.vercel.app/&TV/tracks-v1a1/mono.ts.m3u8
+https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:1 tvg-name="MTV" tvg-logo="" group-title="TOP Channel",MTV
 https://tiger-hub.vercel.app/Mtv-music_hollywood/tracks-v1a1/mono.ts.m3u8
 #EXTINF:1 tvg-name="Kids" tvg-logo="" group-title="TOP Channel",KIDS
