@@ -272,6 +272,11 @@ https://xfireflix.fun/file/opplex/stream.m3u8?id=109977&e=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="TOP Channel" tvg-logo="",HORROR DRAMA 24X7
 https://xfireflix.fun/file/opplex/stream.m3u8?id=368954&e=.m3u8
+
+#EXTINF:1 tvg-name="SONY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMQVbbFpS9l2QpcX9F9Kua_QLt3vgvVWo58DnOxDObTA&s" group-title="TOP Channel",SONYLIV
+https://dai.google.com/linear/hls/event/biQJgf06SJCitj-nd502ow/master.m3u8
+
+
 #EXTINF:-1
 
 Entertainment
