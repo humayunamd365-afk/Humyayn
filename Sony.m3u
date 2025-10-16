@@ -24,7 +24,7 @@ https://nxtlive.net/sliv/stream.m3u8?id=1000044878|Referer=https://nxtlive.net/s
 #EXTINF:-1 tvg-id="sony-wah" tvg-logo="https://i.ibb.co/6cTpMGPF/Sony-Wah.png" group-title="SonyLIV(Humayun)",Sony WAH
 https://nxtlive.net/sliv/stream.m3u8?id=1000044878|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000044878https://nxtlive.net/sliv/stream.m3u8?id=1000044878|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000044878
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://i.postimg.cc/hGYnSKpg/SONY-PIX-HD.png" group-title="SonyLIV(Humayun)",Sony PIX HD
-https://globalplay.live/sliv/v2/live.php?id=60557a
+https://nxtlive.net/sliv/stream.m3u8?id=1000009258|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000009258
 #EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-logo="https://i.postimg.cc/t4g4cy4Z/SONY-BBC-EARTH.png" group-title="SonyLIV(Humayun)",Sony BBC Earth HD
 https://nxtlive.net/sliv/stream.m3u8?id=1000009252|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000009252
 #EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-logo="https://i.postimg.cc/d00sTpK0/SONY-SPORTS-TEN-1-HD.png" group-title="SonyLIV(Humayun)",Sony Sports Ten 1 HD
