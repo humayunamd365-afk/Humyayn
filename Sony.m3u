@@ -14,7 +14,6 @@ http://172.16.29.3:8090/hls/SonyAtth.m3u8
 https://nxtlive.net/sliv/stream.m3u8?id=1000001971|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000001971
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://i.postimg.cc/XYF71G8F/SONY-MAX-HD.png" group-title="SonyLIV(Humayun)",Sony MAX HD
 https://nxtlive.net/sliv/stream.m3u8?id=1000009247|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000009247
-tp://opplex.to:8080/Farukh5342/Farukh@5342/109957
 #EXTINF:-1 tvg-id="sony-max" tvg-logo="https://i.postimg.cc/X7MmrgCs/SONY-MAX.png" group-title="SonyLIV(Humayun)",Sony MAX
 https://nxtlive.net/sliv/stream.m3u8?id=1000009249|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000009249
 #EXTINF:-1 tvg-id="sony-max-2" tvg-logo="https://i.ibb.co/1J6WbVdP/image.png" group-title="SonyLIV(Humayun)",Sony MAX 2
