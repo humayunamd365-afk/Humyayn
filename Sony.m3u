@@ -178,6 +178,9 @@ https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
 
 MovieH
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_7-FVevYPCayCY0vTDHXwwjM-2Bl7ZikhknvR0AzpnA&s=10" group-title="Movie(HuMaYuN)", Star Gold HD
+https://jmp2.uk/stvp-IN3800008CX:
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/gbXcCCYS/images-1.jpg" group-title="Movie(HuMaYuN)", Star Gold HD
 http://66.102.120.18:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/gbXcCCYS/images-1.jpg" group-title="Movie(HuMaYuN)", Star Movies HD
