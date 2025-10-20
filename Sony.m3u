@@ -41,67 +41,6 @@ https://nxtlive.net/sliv/stream.m3u8?id=1000009275|Referer=https://nxtlive.net/s
 🏞️🏞️🏞️🏞️🏞️🏞️🏞️🏞️Discovery🏞️🏞️🏞️🏞️🏞️🏞️🏞️🏞️
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b70a8cf9450c4d6484b4ac4d3c6761c0:0908be844260409cbac180bf0181da40
-#EXTINF:-1 tvg-id="discovey" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/nddhwf.png" group-title="Discovery🏞️🐘",Discovery Hindi 📺
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd
-#EXTINF:-1 tvg-id="discovey" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/nddhwf.png" group-title="Discovery🏞️🐘",Discovery Bangla 📺
-#https://tiger-hub.vercel.app/Discovery-bangla/tracks-v1a1/mono.m3u8
-#https://tiger-hub.vercel.app/Discovery-Bangla/tracks-v1a1/mono.ts.m3u8
-http://tv.bdiptv.store:80/live/restreauuX58y/refstream/98.m3u8
-
-#EXTINF:1 tvg-name="Travelxp Bangla_HD 📺" tvg-logo="https://i.ibb.co.com/4R0bm93Z/IMG-20250901-191851-383.jpg" group-title="Discovery🏞️🐘",Travelxp Bangla_HD 📺
-https://live.dinesh29.com.np/stream/jiotv/travelxphd/master.m3u8
-
-#EXTINF:1 tvg-name="BBC Earth" tvg-logo="https://i.ibb.co.com/bjpBGmjT/images.png" group-title="Discovery🏞️🐘",BBC Earth
-https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
-#EXTINF:1 tvg-name="Discovery HD World" tvg-logo="https://i.ibb.co/kvjyNJH/images.png" group-title="Discovery🏞️🐘",1.DiscoveryHD Bangla 📺
-https://allinonereborn.xyz/opplex998.m3u8?id=206296
-#EXTINF:-1 tvg-id="DiscoveryHD Bangla"tvg-logo="https://i.ibb.co/kvjyNJH/images.png" group-title="Discovery🏞️🐘",2.DiscoveryHD Bangla 📺
-
-#EXTINF:-1 tvg-id="nationalgeographichd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/nationalgeographichd.png" group-title="Discovery🏞️🐘",National Geographic HINDI HD
-https://tiger-hub.vercel.app/National-Geographic_Bangla/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/cSfrMnbg/images-5.jpg" group-title="Discovery🏞️🐘",Animal planet HD
-https://allinonereborn.xyz/opplex998.m3u8?id=206283
-
-
-#EXTINF:1 tvg-name="History TV18 HD (HINDI)" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/historytv18hd.png" group-title="Discovery🏞️🐘",History TV18 HD (HINDI) 📺
-https://tiger-hub.vercel.app/History-tv-18_Hindy/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="nationalgeographichd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/nationalgeographichd.png" group-title="Discovery🏞️🐘",National Geographic HD
-https://live.dinesh29.com.np/stream/jiotvplus/nationalgeographichd/master.m3u8
-
-#EXTINF:-1 tvg-id="4" tvg-name="Animal Planet" tvg-language="English" tvg-country="IN" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/animal-planet.png" tvg-chno="4" group-title="Discovery🏞️🐘",Animal Planet
-https://panel.noobon.top/daddyhd/app/live.m3u8?id=fe1a443izjlb&vtoken=ZGJhMzQwMGRiN2EyX18yMjZjMTkxZmNmZGY2ZTMwYWY5ZmFiYmM2YmU0YjgwZg|Referer=https://liveboxpro.com/&Origin=https://liveboxpro.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="35" tvg-name="Arte DE" tvg-language="German" tvg-country="IN" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/arte.png" tvg-chno="35" group-title="Discovery🏞️🐘",Arte DE
-https://panel.noobon.top/daddyhd/app/live.m3u8?id=fe1a443om0mp&vtoken=ZGJhMzQwMGRiN2EyX18yMjZjMTkxZmNmZGY2ZTMwYWY5ZmFiYmM2YmU0YjgwZg|Referer=https://liveboxpro.com/&Origin=https://liveboxpro.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="171" tvg-name="Discovery Life Channel" tvg-language="English" tvg-country="IN" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/discovery-life-channel.png" tvg-chno="171" group-title="Discovery🏞️🐘",Discovery Life Channel
-https://panel.noobon.top/daddyhd/app/live.m3u8?id=fe1a443iqwfk&vtoken=ZGJhMzQwMGRiN2EyX18yMjZjMTkxZmNmZGY2ZTMwYWY5ZmFiYmM2YmU0YjgwZg|Referer=https://liveboxpro.com/&Origin=https://liveboxpro.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="173" tvg-name="Discovery Channel" tvg-language="English" tvg-country="IN" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/discovery-channel.png" tvg-chno="173" group-title="Discovery🏞️🐘",Discovery Channel
-https://panel.noobon.top/daddyhd/app/live.m3u8?id=fe1a443qk96q&vtoken=ZGJhMzQwMGRiN2EyX18yMjZjMTkxZmNmZGY2ZTMwYWY5ZmFiYmM2YmU0YjgwZg|Referer=https://liveboxpro.com/&Origin=https://liveboxpro.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="174" tvg-name="Discovery Family" tvg-language="English" tvg-country="IN" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/discovery-family.png" tvg-chno="174" group-title="Discovery🏞️🐘",Discovery Family
-https://panel.noobon.top/daddyhd/app/live.m3u8?id=fe1a443bh6eg&vtoken=ZGJhMzQwMGRiN2EyX18yMjZjMTkxZmNmZGY2ZTMwYWY5ZmFiYmM2YmU0YjgwZg|Referer=https://liveboxpro.com/&Origin=https://liveboxpro.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="263" tvg-name="History USA" tvg-language="English" tvg-country="IN" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/history-usa.png" tvg-chno="263" group-title="Discovery🏞️🐘",History USA
-https://panel.noobon.top/daddyhd/app/live.m3u8?id=fe1a443vz9cs&vtoken=ZGJhMzQwMGRiN2EyX18yMjZjMTkxZmNmZGY2ZTMwYWY5ZmFiYmM2YmU0YjgwZg|Referer=https://liveboxpro.com/&Origin=https://liveboxpro.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="355" tvg-name="Nat Geo Wild USA" tvg-language="English" tvg-country="IN" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/nat-geo-wild-usa.png" tvg-chno="355" group-title="Discovery🏞️🐘",Nat Geo Wild USA
-https://panel.noobon.top/daddyhd/app/live.m3u8?id=fe1a4437co57&vtoken=ZGJhMzQwMGRiN2EyX18yMjZjMTkxZmNmZGY2ZTMwYWY5ZmFiYmM2YmU0YjgwZg|Referer=https://liveboxpro.com/&Origin=https://liveboxpro.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="347" tvg-name="National Geographic (NGC)" tvg-language="English" tvg-country="IN" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/national-geographic.png" tvg-chno="347" group-title="Discovery🏞️🐘",National Geographic (NGC)
-https://panel.noobon.top/daddyhd/app/live.m3u8?id=fe1a443u5yf5&vtoken=ZGJhMzQwMGRiN2EyX18yMjZjMTkxZmNmZGY2ZTMwYWY5ZmFiYmM2YmU0YjgwZg|Referer=https://liveboxpro.com/&Origin=https://liveboxpro.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="517" tvg-name="Sky Crime" tvg-language="English" tvg-country="IN" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/sky-crime-uk.png" tvg-chno="517" group-title="Discovery🏞️🐘",Sky Crime
-https://panel.noobon.top/daddyhd/app/live.m3u8?id=fe1a443n751g&vtoken=ZGJhMzQwMGRiN2EyX18yMjZjMTkxZmNmZGY2ZTMwYWY5ZmFiYmM2YmU0YjgwZg|Referer=https://liveboxpro.com/&Origin=https://liveboxpro.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="518" tvg-name="Sky History" tvg-language="English" tvg-country="IN" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/sky-history-uk.png" tvg-chno="518" group-title="Discovery🏞️🐘",Sky History
-https://panel.noobon.top/daddyhd/app/live.m3u8?id=fe1a443nxou3&vtoken=ZGJhMzQwMGRiN2EyX18yMjZjMTkxZmNmZGY2ZTMwYWY5ZmFiYmM2YmU0YjgwZg|Referer=https://liveboxpro.com/&Origin=https://liveboxpro.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="534" tvg-name="Science Channel" tvg-language="English" tvg-country="IN" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/science-channel.png" tvg-chno="534" group-title="Discovery🏞️🐘",Science Channel
-https://panel.noobon.top/daddyhd/app/live.m3u8?id=fe1a443l073t&vtoken=ZGJhMzQwMGRiN2EyX18yMjZjMTkxZmNmZGY2ZTMwYWY5ZmFiYmM2YmU0YjgwZg|Referer=https://liveboxpro.com/&Origin=https://liveboxpro.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="536" tvg-name="Showtime SHOxBET USA" tvg-language="English" tvg-country="IN" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/showtime-shoxbet-usa.png" tvg-chno="536" group-title="Discovery🏞️🐘",Showtime SHOxBET USA
-https://panel.noobon.top/daddyhd/app/live.m3u8?id=fe1a443x2qjz&vtoken=ZGJhMzQwMGRiN2EyX18yMjZjMTkxZmNmZGY2ZTMwYWY5ZmFiYmM2YmU0YjgwZg|Referer=https://liveboxpro.com/&Origin=https://liveboxpro.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="624" tvg-name="WWE Network" tvg-language="English" tvg-country="IN" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/wwe-network.png" tvg-chno="624" group-title="Discovery🏞️🐘",WWE Network
-https://panel.noobon.top/daddyhd/app/live.m3u8?id=fe1a4437qr9m&vtoken=ZGJhMzQwMGRiN2EyX18yMjZjMTkxZmNmZGY2ZTMwYWY5ZmFiYmM2YmU0YjgwZg|Referer=https://liveboxpro.com/&Origin=https://liveboxpro.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="670" tvg-name="Discovery Velocity CA" tvg-language="English" tvg-country="IN" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/discovery-velocity.png" tvg-chno="670" group-title="Discovery🏞️🐘",Discovery Velocity CA
-https://panel.noobon.top/daddyhd/app/live.m3u8?id=fe1a443m3bku&vtoken=ZGJhMzQwMGRiN2EyX18yMjZjMTkxZmNmZGY2ZTMwYWY5ZmFiYmM2YmU0YjgwZg|Referer=https://liveboxpro.com/&Origin=https://liveboxpro.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="679" tvg-name="Law & Crime Network" tvg-language="English" tvg-country="IN" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/law-and-crime-network.png" tvg-chno="679" group-title="Discovery🏞️🐘",Law & Crime Network
-https://panel.noobon.top/daddyhd/app/live.m3u8?id=fe1a443hhlg4&vtoken=ZGJhMzQwMGRiN2EyX18yMjZjMTkxZmNmZGY2ZTMwYWY5ZmFiYmM2YmU0YjgwZg|Referer=https://liveboxpro.com/&Origin=https://liveboxpro.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 
 BD
 
