@@ -205,7 +205,7 @@ https://xfireflix.fun/file/opplex/stream.m3u8?id=25989&e=.m3u8
 https://xfireflix.fun/file/opplex/stream.m3u8?id=221337&e=.m3u8
 
 #EXTINF:1 tvg-name="National GEO" tvg-logo="https://i.ibb.co.com/RGJpzZh9/1000022981.jpg" group-title="TOP Channel",National GEO (4K)
-https://xfireflix.fun/file/opplex/stream.m3u8?id=109977&e=.m3u8
+http://103.166.152.22:8080/roarzone/bk/35/tracks-v1/index.fmp4.m3u8?token=06d96847cd092b410bd4a615618f8031092921e9-73e6c90fb6a80050d4d00ee4ae6e3f4c-1762982821-1762972021
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="TOP Channel" tvg-logo="",HORROR DRAMA 24X7
 https://xfireflix.fun/file/opplex/stream.m3u8?id=368954&e=.m3u8
 
