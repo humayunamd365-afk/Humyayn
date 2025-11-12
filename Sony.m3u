@@ -74,18 +74,16 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-vid
 
 
 #EXTINF:1 tvg-name="Tsports" tvg-logo="" group-title="LIVE SPORTS",Live NOw 1
-http://116.204.149.16/t_sports/index.m3u8
-http://103.175.242.10:8080/tsports1/index.m3u8
-http://147.93.154.65/Bein3/index.m3u8
+http://10.20.30.40:7171/Sports-1/tracks-v1a1/mono.ts.m3u8?token=cdrom7643disk
 
 #EXTINF:1 tvg-name="sports" tvg-logo="" group-title="LIVE SPORTS",Live NoW
-http://172.16.29.3:8090/hls/tsportshd.m3u8
+http://10.20.30.40:7171/Sports-1/index.m3u8?token=cdrom7643disk
 
 #EXTINF:1 tvg-name="TsportsHD" tvg-logo="" group-title="LIVE SPORTS",Live NOw 2
-http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8
+http://10.20.30.40:7171/Sports-3/tracks-v1a1/mono.ts.m3u8?token=cdrom7643disk
 
 #EXTINF:1 tvg-name="Tsports" tvg-logo="" group-title="LIVE SPORTS",Live Now 3
-http://116.204.149.16/t_sports/index.m3u8
+http://10.20.30.40:7171/Sports-5/tracks-v1a1/mono.ts.m3u8?token=cdrom7643disk
 
 #EXTINF:1 tvg-name="sports" tvg-logo="" group-title="LIVE SPORTS",Live Now 4
 https://fancode.unosottor.workers.dev/137701.m3u8
