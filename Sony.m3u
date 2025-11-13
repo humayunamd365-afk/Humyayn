@@ -195,8 +195,8 @@ https://tiger-hub.vercel.app/Mtv-music_hollywood/tracks-v1a1/mono.ts.m3u8
 #EXTINF:1 tvg-name="Kids" tvg-logo="" group-title="TOP Channel",KIDS
 https://tiger-hub.vercel.app/OSN/Kids/tracks-v1a1/mono.ts.m3u8
 #EXTINF:1 tvg-name="HumTv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNKMmPUD_Q--lfxoPcFv3xDtljB9Fao5lonSlaNdu-Vg&s=10" group-title="TOP Channel",HumTv HD
-https://allinonereborn.xyz/opplex998.m3u8?id=221339
-https://allinonereborn.xyz/opplex998.m3u8?id=25981
+http://10.20.30.40:7171/Hum_TV/tracks-v1a1/mono.ts.m3u8?token=cdrom7643disk
+
 
 #EXTINF:1 tvg-name="SAB TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI9RHoiP0wDrgZpxQTuSQNhacRYQpGlJjoHDEnh-xu6w&s=10" group-title="TOP Channel",SAB TV
 http://66.102.120.18:8000/play/a035
@@ -206,13 +206,14 @@ https://xfireflix.fun/file/opplex/stream.m3u8?id=221337&e=.m3u8
 
 #EXTINF:1 tvg-name="National GEO" tvg-logo="https://i.ibb.co.com/RGJpzZh9/1000022981.jpg" group-title="TOP Channel",National GEO (4K)
 http://103.166.152.22:8080/roarzone/bk/35/tracks-v1/index.fmp4.m3u8?token=06d96847cd092b410bd4a615618f8031092921e9-73e6c90fb6a80050d4d00ee4ae6e3f4c-1762982821-1762972021
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TOP Channel" tvg-logo="",HORROR DRAMA 24X7
-https://xfireflix.fun/file/opplex/stream.m3u8?id=368954&e=.m3u8
 
-#EXTINF:1 tvg-name="SONY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMQVbbFpS9l2QpcX9F9Kua_QLt3vgvVWo58DnOxDObTA&s" group-title="TOP Channel",SONYLIV
-https://dai.google.com/linear/hls/event/biQJgf06SJCitj-nd502ow/master.m3u8
-#EXTINF:1 tvg-name="National GEO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiN7E160btQJaNgzkIkmCkmEhdr0_wb1qz1j-vnghJ3g&s=10" group-title="TOP Channel",মাহিমা দালাল ৮৮
-https://pub-f0bd7af2e6dd4aeea29ee3dd2324e6db.r2.dev/CINEFREAK.TOP%20-%20CID%20[S02EP88]%20WEB-DL%20[Hindi]%20NF%201080p%20ESub.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TOP Channel" tvg-logo="",Star GOld Select HD
+http://10.20.30.40:7171/Movies-1/tracks-v1a1/mono.ts.m3u8?token=cdrom7SONY
+#EXTINF:1 tvg-name="SONY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMQVbbFpS9l2QpcX9F9Kua_QLt3vgvVWo58DnOxDObTA&s" group-title="TOP Channel",Zee Cinema
+http://10.20.30.40:7171/Movies-3/tracks-v1a1/mono.ts.m3u8?token=cdrom7643disk
+#EXTINF:1 tvg-name="National GEO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiN7E160btQJaNgzkIkmCkmEhdr0_wb1qz1j-vnghJ3g&s=10" group-title="TOP Channel",Star Movies Select HD
+http://10.20.30.40:7171/Movies-4/video.m3u8?token=cdrom7643disk
+
 #EXTINF:-1
 
 Entertainment
