@@ -184,10 +184,16 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1
 
 
-Animal
+Bdix
 
-
-
+#EXTINF:1 tvg-name="And TV" tvg-logo="https://i.ibb.co.com/RGJpzZh9/1000022981.jpg" group-title="BDIX",RTV
+http://103.240.44.26/R-TV/index.fmp4.m3u8
+#EXTINF:1 tvg-name="And TV" tvg-logo="https://i.ibb.co.com/RGJpzZh9/1000022981.jpg" group-title="BDIX",Independent TV
+http://103.240.44.26/Indpendent-TV/index.fmp4.m3u8
+#EXTINF:1 tvg-name="And TV" tvg-logo="https://i.ibb.co.com/RGJpzZh9/1000022981.jpg" group-title="BDIX",DBC
+http://103.240.44.26/DBC-News/index.fmp4.m3u8
+#EXTINF:1 tvg-name="And TV" tvg-logo="https://i.ibb.co.com/RGJpzZh9/1000022981.jpg" group-title="BDIX",RTV
+http://103.240.44.26/R-TV/index.fmp4.m3u8
 
 Favourite 
 
