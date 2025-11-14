@@ -192,8 +192,10 @@ http://103.240.44.26/R-TV/index.fmp4.m3u8
 http://103.240.44.26/Indpendent-TV/index.fmp4.m3u8
 #EXTINF:1 tvg-name="And TV" tvg-logo="https://i.ibb.co.com/RGJpzZh9/1000022981.jpg" group-title="BDIX",DBC
 http://103.240.44.26/DBC-News/index.fmp4.m3u8
-#EXTINF:1 tvg-name="And TV" tvg-logo="https://i.ibb.co.com/RGJpzZh9/1000022981.jpg" group-title="BDIX",RTV
-http://103.240.44.26/R-TV/index.fmp4.m3u8
+#EXTINF:1 tvg-name="And TV" tvg-logo="https://i.ibb.co.com/RGJpzZh9/1000022981.jpg" group-title="BDIX",NTV
+http://103.240.44.26/NTV-HD/tracks-v1/index.fmp4.m3u8
+#EXTINF:1 tvg-name="And TV" tvg-logo="https://i.ibb.co.com/RGJpzZh9/1000022981.jpg" group-title="BDIX",Banglavision 
+http://103.240.44.26/Banglavision/tracks-v1/index.fmp4.m3u8
 
 Favourite 
 
