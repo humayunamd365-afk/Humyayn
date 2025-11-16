@@ -86,7 +86,7 @@ http://10.20.30.40:7171/Sports-3/tracks-v1a1/mono.ts.m3u8?token=cdrom7643disk
 http://10.20.30.40:7171/Sports-5/tracks-v1a1/mono.ts.m3u8?token=cdrom7643disk
 
 #EXTINF:1 tvg-name="sports" tvg-logo="" group-title="LIVE SPORTS",Live Now 4
-https://fancode.unosottor.workers.dev/137701.m3u8
+http://103.240.44.26/Astro-Cricket/index.fmp4.m3u8
 
 Islamic---
 
