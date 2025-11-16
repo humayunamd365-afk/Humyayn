@@ -9,7 +9,7 @@ https://yflix.top/sliv1/live.php?id=1000009259&devtoken=TechPakao&e=.m3u8
 #EXTINF:-1 tvg-id="sony-pal" tvg-logo="https://i.postimg.cc/nrQ6V7MG/SONY-PAL.png" group-title="SonyLIV(Humayun)",Sony Pal
 https://nxtlive.net/sliv/stream.m3u8?id=1000009273|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000009273
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="SonyLIV(Humayun)",Sony Aath
-http://172.16.29.3:8090/hls/SonyAtth.m3u8
+http://103.240.44.26/Sony-Aath/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://i.postimg.cc/qRxtS9Gy/SONY-YAY.png" group-title="SonyLIV(Humayun)",Sony Yay
 https://nxtlive.net/sliv/stream.m3u8?id=1000001971|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000001971
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://i.postimg.cc/XYF71G8F/SONY-MAX-HD.png" group-title="SonyLIV(Humayun)",Sony MAX HD
@@ -209,15 +209,15 @@ https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 https://tiger-hub.vercel.app/Mtv-music_hollywood/tracks-v1a1/mono.ts.m3u8
 #EXTINF:1 tvg-name="Kids" tvg-logo="" group-title="TOP Channel",KIDS
 https://tiger-hub.vercel.app/OSN/Kids/tracks-v1a1/mono.ts.m3u8
+#EXTINF:1 tvg-name="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvhrX-XGEB5c3eqrVYda4lQHabxADfMscHDW-U99WcYA&s=10" group-title="TOP Channel",Nick
+http://103.240.44.26/Nick-Bangla/tracks-v1/index.fmp4.m3u8
+
 #EXTINF:1 tvg-name="HumTv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNKMmPUD_Q--lfxoPcFv3xDtljB9Fao5lonSlaNdu-Vg&s=10" group-title="TOP Channel",HumTv HD
 http://10.20.30.40:7171/Hum_TV/tracks-v1a1/mono.ts.m3u8?token=cdrom7643disk
-
-
 #EXTINF:1 tvg-name="SAB TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI9RHoiP0wDrgZpxQTuSQNhacRYQpGlJjoHDEnh-xu6w&s=10" group-title="TOP Channel",History TV
 http://103.240.44.26/History-TV/tracks-v1/index.fmp4.m3u8
 #EXTINF:1 tvg-name="Ary digital" tvg-logo="" group-title="TOP Channel",Ary Digital HD
-https://xfireflix.fun/file/opplex/stream.m3u8?id=25989&e=.m3u8
-https://xfireflix.fun/file/opplex/stream.m3u8?id=221337&e=.m3u8
+http://103.240.44.26/Ary-Digital-HD/index.fmp4.m3u8
 
 #EXTINF:1 tvg-name="National GEO" tvg-logo="https://i.ibb.co.com/RGJpzZh9/1000022981.jpg" group-title="TOP Channel",National GEO (4K)
 http://103.166.152.22:8080/roarzone/bk/35/tracks-v1/index.fmp4.m3u8?token=06d96847cd092b410bd4a615618f8031092921e9-73e6c90fb6a80050d4d00ee4ae6e3f4c-1762982821-1762972021
