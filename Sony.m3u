@@ -4,7 +4,7 @@ sony..
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://i.postimg.cc/xCV0N1yy/SONY-SET-HD.png" group-title="SonyLIV(Humayun)",SET HD
 https://nxtlive.net/sliv/stream.m3u8?id=1000009246|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000009246
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://i.postimg.cc/HLrGvfHN/SONY-SAB-HD.png" group-title="SonyLIV(Humayun)",Sony SAB HD
-http://103.99.249.139/sonysab/index.m3u8
+https://nxtlive.net/sliv/stream.m3u8?id=1000009248|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000009248
 #EXTINF:-1 tvg-id="sony-marathi" tvg-logo="https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png" group-title="SonyLIV(Humayun)",Sony Marathi
 https://yflix.top/sliv1/live.php?id=1000009259&devtoken=TechPakao&e=.m3u8
 #EXTINF:-1 tvg-id="sony-pal" tvg-logo="https://i.postimg.cc/nrQ6V7MG/SONY-PAL.png" group-title="SonyLIV(Humayun)",Sony Pal
@@ -231,7 +231,7 @@ http://10.20.30.40:7171/Movies-3/tracks-v1a1/mono.ts.m3u8?token=cdrom7643disk
 #EXTINF:1 tvg-name="National GEO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiN7E160btQJaNgzkIkmCkmEhdr0_wb1qz1j-vnghJ3g&s=10" group-title="TOP Channel",Star Movies Select HD
 http://10.20.30.40:7171/Movies-4/video.m3u8?token=cdrom7643disk
 #EXTINF:1 tvg-name="SONY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMQVbbFpS9l2QpcX9F9Kua_QLt3vgvVWo58DnOxDObTA&s" group-title="TOP Channel",SonySAB Backup
-http://87.255.35.150:18810
+http://103.99.249.139/sonysab/index.m3u8
 
 #EXTINF:-1
 
