@@ -79,7 +79,7 @@ Sony Ind
 http://10.20.30.40:7171/Sports-1/tracks-v1a1/mono.ts.m3u8?token=cdrom7643disk
 
 #EXTINF:1 tvg-name="sports" tvg-logo="" group-title="LIVE SPORTS",Live NoW
-http://10.20.30.40:7171/Sports-1/index.m3u8?token=cdrom7643disk
+http://172.16.29.2:8090/hls/tsportshd.m3u8
 
 #EXTINF:1 tvg-name="TsportsHD" tvg-logo="" group-title="LIVE SPORTS",Live NOw 2
 http://10.20.30.40:7171/Sports-3/tracks-v1a1/mono.ts.m3u8?token=cdrom7643disk
