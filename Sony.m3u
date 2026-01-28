@@ -72,6 +72,29 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-vid
 
 Sony Ind
 
+#EXTINF:-1 group-title="India🇮🇳" tvg-chno="" tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony%20Max.jpg?raw=true",SONY MAX SD
+http://103.175.73.12:8080/live/32/32_0.m3u8
+#EXTINF:-1 group-title="India🇮🇳" tvg-chno="" tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony%20Max.jpg?raw=true",SONY MAX HD
+http://103.175.73.12:8080/live/33/33_0.m3u8
+#EXTINF:-1 group-title="India🇮🇳" tvg-chno="" tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony%20Sab.jpg?raw=true",SONY SAB HD
+http://103.175.73.12:8080/live/5/5_0.m3u8
+#EXTINF:-1 group-title="India🇮🇳" tvg-chno="" tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony%20Sab.jpg?raw=true",SONY SAB SD
+http://103.175.73.12:8080/live/6/6_0.m3u8
+#EXTINF:-1 tvg-name="Sony Pal" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony%20Pal.jpg?raw=true" group-title="India🇮🇳",Sony Pal
+#http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6626/index.m3u8
+http://103.175.73.12:8080/live/11/11_0.m3u8
+#EXTINF:1 tvg-name="Sony Yay" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony%20Yay.jpg?raw=true" group-title="India🇮🇳",Sony Yay
+http://103.175.73.12:8080/live/122/122_0.m3u8
+#EXTINF:1 tvg-name="Jalsha Movie" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Jalsha%20Movie.jpg?raw=true" group-title="India🇮🇳",Jalsha Movie
+http://103.175.73.12:8080/live/374/374_0.m3u8
+
+#EXTINF:-1 group-title="India🇮🇳" tvg-chno="" tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony%20Sab.jpg?raw=true",SONY SAB HD
+http://103.99.249.139/sonysab/index.m3u8
+#EXTINF:1 tvg-name="Sony Aath" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony%20Aath.jpg?raw=true" group-title="India🇮🇳",Sony Aath
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6641/index.m3u8
+#EXTINF:1 tvg-name="Sony Sab" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony%20Sab.jpg?raw=true" group-title="India🇮🇳",Sony Sab
+http://217.20.112.199:8888/sabtvhd/index.m3u8
+
 #EXTINF:1
 
 
