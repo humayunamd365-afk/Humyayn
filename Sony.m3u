@@ -239,7 +239,7 @@ http://103.240.44.26/Nick-Bangla/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:1 tvg-name="HumTv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNKMmPUD_Q--lfxoPcFv3xDtljB9Fao5lonSlaNdu-Vg&s=10" group-title="TOP Channel",HumTv HD
 http://10.20.30.40:7171/Hum_TV/tracks-v1a1/mono.ts.m3u8?token=cdrom7643disk
-#EXTINF:1 tvg-name="SAB TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI9RHoiP0wDrgZpxQTuSQNhacRYQpGlJjoHDEnh-xu6w&s=10" group-title="TOP Channel",LIPI 
+#EXTINF:1 tvg-name="SAB TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI9RHoiP0wDrgZpxQTuSQNhacRYQpGlJjoHDEnh-xu6w&s=10" group-title="TOP Channel",ইফতি
 http://ziboflow.ott-king.top:8080/ZEETVHD/tracks-v1a1/mono.m3u8?token=NO_IP_CHECK
 #EXTINF:1 tvg-name="Ary digital" tvg-logo="" group-title="TOP Channel",Ary Digital HD
 http://103.240.44.26/Ary-Digital-HD/index.fmp4.m3u8
