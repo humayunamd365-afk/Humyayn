@@ -164,6 +164,73 @@ http://103.175.73.12:8080/live/256/256_0.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
 http://103.175.73.12:8080/live/271/271_0.m3u8
 
+Hindi
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGqiOBYecrK6JrYC4gq5t-ISoacG6TC15kxA&s" group-title="KOLKATA", Jalsha Movies HD
+#https://padmaonline.duckdns.org:8088/JalshaMoviesHD/index.m3u8
+#http://cdnd.sonyplex.com:8090/hls/JalshaMoviesHD.m3u8
+#http://103.175.242.10:8080/jalshamovies/index.m3u8
+https://cdn-tamp.vercel.app/Kalkata/AR/Live_Stream/Star-Jalsha-Movies-Bangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold2_hd.png" group-title="HINDI",Star Gold 2 HD
+http://103.175.73.12:8080/live/34/34_0.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold2_hd.png" group-title="HINDI",Star Gold 2 HD
+http://103.175.73.12:8080/live/433/433_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_select_hd.png" group-title="HINDI",Star Gold Select HD
+#http://cdnd.sonyplex.com:8090/hls/StarGoldHD.m3u8
+http://103.175.73.12:8080/live/40/40_0.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_logo.png" group-title="HINDI",Star Gold HD
+#http://103.175.73.12:8080/live/30/30_0.m3u8
+#http://tvn2.chowdhury-shaheb.com/stargold/index.m3u8
+http://103.175.73.12:8080/live/30/30_0.m3u8
+
+
+#EXTINF:-1, STAR GOLD SD
+http://103.175.73.12:8080/live/31/31_0.m3u8
+#EXTINF:-1,STAR UTSAV MOVIES
+http://103.175.73.12:8080/live/42/42_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/star--bharat-hd.jpg" group-title="HINDI",Star Bharat HD
+http://103.175.73.12:8080/live/3/3_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_movies_hd.png" group-title="ENGLISH",Star Movies HD
+http://103.175.73.12:8080/live/56/56_0.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_Select_HD.png" group-title="Airtel | Tamil",Star Movies Select HD
+http://103.175.73.12:8080/live/60/60_0.m3u8
+
+#EXTINF:-1 tvg-id="colorscineplexbollywood" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorscineplexbollywood.png" group-title="Movies",Colors Cineplex Bollywood
+http://103.175.73.12:8080/live/437/437_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_Rishtey_logo.png/1200px-Colors_Rishtey_logo.png" group-title="HINDI", COLORS RISHTEY
+http://103.175.73.12:8080/live/12/12_0.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="KOLKATA",Colors Bangla Cinema
+http://103.175.73.12:8080/live/441/441_0.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h7T6MCW/20240803-110652.png" group-title="HINDI", COLORS CINEPLEX HD
+http://103.175.73.12:8080/live/37/37_0.m3u8
+#EXTINF:-1, COLORS CINEPLEX SD
+http://103.175.73.12:8080/live/273/273_0.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4WFgUYW.png" group-title="HINDI", COLORS CINEPLEX SUPERHIT
+http://103.175.73.12:8080/live/14/14_0.m3u8
+#EXTINF:-1,MBC BOLLYWOOD
+http://93.184.10.248/MBCBollywood/index.m3u8
+
+#EXTINF:-1, UTSAV GOLD
+http://45.148.145.57/IN_STU/index.m3u8
+
+
 
 #EXTINF:1
 
