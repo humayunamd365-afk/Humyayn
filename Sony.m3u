@@ -250,6 +250,9 @@ http://10.20.30.40:7171/Sports-5/tracks-v1a1/mono.ts.m3u8?token=cdrom7643disk
 #EXTINF:1 tvg-name="sports" tvg-logo="" group-title="LIVE SPORTS",Live Now 4
 http://103.240.44.26/Astro-Cricket/index.fmp4.m3u8
 
+#EXTINF:1 tvg-name="sports" tvg-logo="" group-title="LIVE SPORTS",StarSports 1
+https://tigerhub-bd.vercel.app/StarSports/1-English/tracks-v1a1/mono.ts.m3u8
+
 Islamic---
 
 #EXTINF:1 tvg-name="Peacetv B" tvg-logo="" group-title="Islamic",PeaceTV Bangla
