@@ -72,97 +72,187 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-vid
 
 Sony Ind
 
-#EXTINF:-1 group-title="India🇮🇳" tvg-chno="" tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony%20Max.jpg?raw=true",SONY MAX SD
-http://103.175.73.12:8080/live/32/32_0.m3u8
-#EXTINF:-1 group-title="India🇮🇳" tvg-chno="" tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony%20Max.jpg?raw=true",SONY MAX HD
-http://103.175.73.12:8080/live/33/33_0.m3u8
-#EXTINF:-1 group-title="India🇮🇳" tvg-chno="" tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony%20Sab.jpg?raw=true",SONY SAB HD
-http://103.175.73.12:8080/live/5/5_0.m3u8
-#EXTINF:-1 group-title="India🇮🇳" tvg-chno="" tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony%20Sab.jpg?raw=true",SONY SAB SD
-http://103.175.73.12:8080/live/6/6_0.m3u8
-#EXTINF:-1 tvg-name="Sony Pal" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony%20Pal.jpg?raw=true" group-title="India🇮🇳",Sony Pal
-#http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6626/index.m3u8
-http://103.175.73.12:8080/live/11/11_0.m3u8
-#EXTINF:1 tvg-name="Sony Yay" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony%20Yay.jpg?raw=true" group-title="India🇮🇳",Sony Yay
-http://103.175.73.12:8080/live/122/122_0.m3u8
+#EXTINF:1 tvg-name="Star Plus" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Star%20Plus.jpg?raw=true" group-title="India🇮🇳",Star Plus HD
+https://sonamul3535.vercel.app/Star-plus-HD.m3u8
+#EXTINF:1 tvg-name="Star Plus" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Star%20Plus.jpg?raw=true" group-title="India🇮🇳",Star Plus Sd
+https://sonamul3535.vercel.app/Star-plus-sd.m3u8
+#EXTINF:1 tvg-name="Star Bharat" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Star%20Bharat.jpg?raw=true" group-title="India🇮🇳",Star Bharat HD
+https://sonamul3535.vercel.app/Star-bharat-HD.m3u8
+#EXTINF:1 tvg-name="Star Bharat" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Star%20Bharat.jpg?raw=true" group-title="India🇮🇳",Star Bharat SD
+https://sonamul3535.vercel.app/Star-bharat-sd.m3u8
+#EXTINF:1 tvg-name="Star Gold" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Star%20Gold.jpg?raw=true" group-title="India🇮🇳",Star Gold HD
+https://sonamul3535.vercel.app/Star-gold-hd.m3u8
+#EXTINF:1 tvg-name="Star Gold" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Star%20Gold.jpg?raw=true" group-title="India🇮🇳",Star Gold SD
+https://sonamul3535.vercel.app/Star-gold-sd.m3u8
+#EXTINF:1 tvg-name="Star jalsha" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Star%20Jalsha.jpg?raw=true" group-title="India🇮🇳",Star Jalsha HD
+https://sonamul3535.vercel.app/Star-jalsha-HD.m3u8
+#EXTINF:1 tvg-name="Star jalsha" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Star%20Jalsha.jpg?raw=true" group-title="India🇮🇳",Star Jalsha SD
+https://sonamul3535.vercel.app/Star-jalsha-sd.m3u8
 #EXTINF:1 tvg-name="Jalsha Movie" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Jalsha%20Movie.jpg?raw=true" group-title="India🇮🇳",Jalsha Movie
-http://103.175.73.12:8080/live/374/374_0.m3u8
-
+https://sonamul3535.vercel.app/Jalsha-movie-HD.m3u8
+#EXTINF:-1 group-title="India🇮🇳" tvg-chno="" tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony%20Aath.jpg?raw=true",Sony Aat VIP
+https://sonamul3535.vercel.app/Sony-aath.m3u8
+#EXTINF:-1 group-title="India🇮🇳" tvg-chno="" tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony%20Max.jpg?raw=true",SONY MAX HD
+https://sonamul3535.vercel.app/Sony-max-HD.m3u8
+#EXTINF:-1 group-title="India🇮🇳" tvg-chno="" tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony%20Max.jpg?raw=true",SONY MAX SD
+https://sonamul3535.vercel.app/Sony-max-sd.m3u8
+#EXTINF:-1 tvg-name="Sony Max1" tvg-logo="https://i.postimg.cc/mgyLRVFf/Sony-Max-1.png" group-title="India🇮🇳",Sony Max1
+https://sonamul3535.vercel.app/Sony-max1.m3u8
+#EXTINF:-1 tvg-name="Sony Max2" tvg-logo="https://i.postimg.cc/rwpjyM8K/Sony-max2.png" group-title="India🇮🇳",Sony Max2
+https://sonamul3535.vercel.app/Sony-max2.m3u8
+#EXTINF:-1 group-title="India🇮🇳" tvg-chno="" tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony_Entertainment_HD.jpg?raw=true",SONY HD
+https://sonamul3535.vercel.app/Sony-HD.m3u8
+#EXTINF:-1 group-title="India🇮🇳" tvg-chno="" tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony_Entertainment.jpg?raw=true",SONY SD
+https://sonamul3535.vercel.app/Sony-sd.m3u8
 #EXTINF:-1 group-title="India🇮🇳" tvg-chno="" tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony%20Sab.jpg?raw=true",SONY SAB HD
-http://103.99.249.139/sonysab/index.m3u8
-#EXTINF:1 tvg-name="Sony Aath" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony%20Aath.jpg?raw=true" group-title="India🇮🇳",Sony Aath
-http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6641/index.m3u8
-#EXTINF:1 tvg-name="Sony Sab" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony%20Sab.jpg?raw=true" group-title="India🇮🇳",Sony Sab
-http://217.20.112.199:8888/sabtvhd/index.m3u8
-
-#EXTINF:-1 tvg-id="&TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665.png" group-title="India🇮🇳",&TV HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=67d18634ccb04875875c60fb8d9caaba:99a66471c09e4b8a8dc39a0de6803f75
-#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
-http://103.175.73.12:8080/live/252/252_0.m3u8
-
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="India🇮🇳",&TV SD
+https://sonamul3535.vercel.app/Sony-sab-HD.m3u8
+#EXTINF:-1 group-title="India🇮🇳" tvg-chno="" tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony%20Sab.jpg?raw=true",SONY SAB SD
+https://sonamul3535.vercel.app/Sony-sab-sd.m3u8
+#EXTINF:-1 tvg-name="Sony Pal" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony%20Pal.jpg?raw=true" group-title="India🇮🇳",Sony Pal
+https://sonamul3535.vercel.app/Sony-pal.m3u8
+#EXTINF:1 tvg-name="Sony Yay" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony%20Yay.jpg?raw=true" group-title="India🇮🇳",Sony Yay
+https://sonamul3535.vercel.app/Sony-yay.m3u8
+#EXTINF:-1 tvg-name="Sony Wah" tvg-logo="https://i.postimg.cc/76hmB4Rh/Sony-Wah.png" group-title="India🇮🇳",Sony Wah
+https://sonamul3535.vercel.app/Sony-way.m3u8
+#EXTINF:-1 tvg-id="144" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Colors%20HD.jpg?raw=true" group-title="India🇮🇳",colors_hd
+https://sonamul3535.vercel.app/Colors-hd.m3u8
+#EXTINF:-1 tvg-id="279" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Rishtey.jpg?raw=true" group-title="India🇮🇳",rishtey
+https://sonamul3535.vercel.app/Colors-Rishtey.m3u8
+#EXTINF:-1 tvg-id="1777" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Colors%20cineplex%20Hd.jpg?raw=true" group-title="India🇮🇳",cineplex_hd
+https://sonamul3535.vercel.app/Colors-Sinplex-HD.m3u8
+#EXTINF:-1 tvg-id="1450" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Colors%20cineplex%20superhit.jpg?raw=true" group-title="India🇮🇳",cineplex_superhits
+https://sonamul3535.vercel.app/Colors-Sinplex-Superhit.m3u8
+#EXTINF:-1 tvg-id="1145" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/MTV%20HD.jpg?raw=true" group-title="India🇮🇳",mtv_hd
+https://sonamul3535.vercel.app/Mtv-hd.m3u8
+#EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/And%20&%20TV.jpg?raw=true" group-title="India🇮🇳",&TV SD
+https://sonamul3535.vercel.app/&tv-sd.m3u8
+#EXTINF:-1 tvg-id="0-9-zeetv" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Zee%20Tv.jpg?raw=true" group-title="India🇮🇳",Zee TV SD
+https://sonamul3535.vercel.app/Zee-tv-sd.m3u8
+#EXTINF:-1 tvg-id="0-9-zeecinema" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Zee%20Cinema.jpg?raw=true" group-title="India🇮🇳",Zee Cinema HD
+https://sonamul3535.vercel.app/Zee-cinema-HD.m3u8
+#EXTINF:-1 tvg-id="0-9-zeecinema" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Zee%20Cinema.jpg?raw=true" group-title="India🇮🇳",Zee Cinema SD
+https://sonamul3535.vercel.app/Zee-cinema-SD.m3u8
+#EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/And%20&%20Picture.jpg?raw=true" group-title="India🇮🇳",&Pictures SD
+https://sonamul3535.vercel.app/&picture-sd.m3u8
+#EXTINF:-1 tvg-id="0-9-zeeclassic" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Zee%20Bollywood.jpg?raw=true" group-title="India🇮🇳",Zee Bollywood
+https://sonamul3535.vercel.app/Zee-bollywod.m3u8
+#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Disney%20Channel.jpg?raw=true" group-title="India🇮🇳",Disney Channel
+https://sonamul3535.vercel.app/Disney.m3u8
+#EXTINF:1 tvg-id="545" tvg-name="Nick Hindi" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Nick%20Hindi.jpg?raw=true" group-title="India🇮🇳",Nick Hindi
+https://sonamul3535.vercel.app/Nick-Hindi.m3u8
+#EXTINF:1 tvg-id="515" tvg-name="Sonic Hindi" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sonic%20Hindi.jpg?raw=true" group-title="India🇮🇳",Sonic Hindi
+https://sonamul3535.vercel.app/Sonic-Hindi.m3u8
+#EXTINF:1 tvg-id="548" tvg-name="nickjr hindi" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Nick%20jr.jpg?raw=true" group-title="India🇮🇳",NickJr
+https://sonamul3535.vercel.app/NickJR.m3u8
+#EXTINF:-1 tvg-id="573" tvg-id="discovey" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Discovery%20Bangla.png?raw=true" group-title="India🇮🇳",Discovery HD
+https://sonamul3535.vercel.app/Discovery-HD.m3u8
+#EXTINF:1 tvg-name="TLC Hindi" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/TLC.jpg?raw=true" group-title="India🇮🇳",TLC Hindi HD
+https://sonamul3535.vercel.app/TLC-HD.m3u8
+#EXTINF:1 tvg-name="TLC Hindi" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/TLC.jpg?raw=true" group-title="India🇮🇳",TLC Hindi SD
+https://sonamul3535.vercel.app/TLC-SD.m3u8
+#EXTINF:-1 tvg-name="Star MoviesHD" tvg-logo="https://i.postimg.cc/9F01CcX7/Star-Movies.png" group-title="India🇮🇳",Star Movies HD
+https://sonamul3535.vercel.app/Star-movie-HD.m3u8
+#EXTINF:-1 tvg-name="Star MoviesSD" tvg-logo="https://i.postimg.cc/9F01CcX7/Star-Movies.png" group-title="India🇮🇳",Star Movies SD
+https://sonamul3535.vercel.app/Star-movie-SD.m3u8
+#EXTINF:-1 tvg-id="zoom" tvg-name="Zoom" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Zoom.jpg?raw=true" tvg-chno="zoom" group-title="India🇮🇳",Zoom
+https://sonamul3535.vercel.app/Zoom-EKTV.m3u8
+#EXTINF:1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
-#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
-http://103.175.73.12:8080/live/253/253_0.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/45/1/pictures-hd-logo-png_seeklogo-457044.png" group-title="India🇮🇳",&Pictures HD
+#KODIPROP:inputstream.adaptive.license_key=b70a8cf9450c4d6484b4ac4d3c6761c0:0908be844260409cbac180bf0181da40
+#EXTINF:-1 tvg-id="discovey" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Discovery%20Bangla.png?raw=true" group-title="India🇮🇳",Discovery Hindi
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd
+https://sonamul3535.vercel.app/Discovery-sd.m3u8
+#EXTINF:1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6
-#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
-http://103.175.73.12:8080/live/266/266_0.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HivVrdof.png" group-title="India🇮🇳",&Pictures SD
+#KODIPROP:inputstream.adaptive.license_key=1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe
+#EXTINF:-1 tvg-id="0-9-9z5383484" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Zee%20Bangla.jpg?raw=true" group-title="India🇮🇳",Zee Bangla
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
+https://tvsen1.aynaott.com/PNEb3v2q6GBk/index.m3u8
+#EXTINF:-1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8dea532cabfe4f71ba20f62310e7949f:7a214a974e4f4d1d9bb66364d5f0cb92
-#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
-http://103.175.73.12:8080/live/267/267_0.m3u8
-
-#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee TV HD.png" group-title="India🇮🇳",Zee TV HD
-#http://103.175.242.10:8080/zeetv/index.m3u8
-http://103.175.73.12:8080/live/254/254_0.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="India🇮🇳",Zee Cinema HD
-#http://103.175.242.10:8080/zeecinema/index.m3u8
-http://103.175.73.12:8080/live/264/264_0.m3u8
-
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qss9gFuH.png" group-title="India🇮🇳",Zee Cinema SD
+#KODIPROP:inputstream.adaptive.license_key=fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc
+#EXTINF:-1 tvg-id="0-9-zeebanglacinema" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Zee%20Bangla%20Cinema.jpg?raw=true" group-title="India🇮🇳",Zee Bangla Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd
+https://sonamul3535.vercel.app/Zee-bangla-cinema.m3u8
+#EXTINF:-1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed068cf84f0640ccbc7c0e395c0a272e:bb722190f2bb446391020411a7d0828b
+#EXTINF:-1 tvg-id="0-9-zeetv" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Zee%20Tv.jpg?raw=true" group-title="India🇮🇳",Zee TV
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
+https://sonamul3535.vercel.app/Zee-tv-HD.m3u8
+#EXTINF:-1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed
-#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
-http://103.175.73.12:8080/live/265/265_0.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/EqDlflgi.png" group-title="India🇮🇳",Zee Action
+#EXTINF:-1 tvg-id="0-9-zeecinema" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Zee%20Cinema.jpg?raw=true" group-title="India🇮🇳",Zee Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
+http://103.99.249.139/zeecinema/index.m3u8
+#EXTINF:-1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9d7a1917ee3244d198193cdd1ff1feae:3c3e8d0259f748f1830f713a769760e7
-#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/manifest.mpd
-http://103.175.73.12:8080/live/270/270_0.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/EqDlflgi.png" group-title="India🇮🇳",Zee Bollywood
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e61523260c614746b25b9a5523fe9a39:72ddbf37f76f49acbb8e140e7279e7a1
-#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
-http://103.175.73.12:8080/live/269/269_0.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/QjKdER9Z.png" group-title="India🇮🇳",Zee Anmol
+#KODIPROP:inputstream.adaptive.license_key=f0fb14eebe474a6ab74c8301d55a7224:f9f8b2e30704458b8db844a285ce32be
+#EXTINF:-1 tvg-id="0-9-zing" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Zing.jpg?raw=true" group-title="India🇮🇳",Zing
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
+https://sonamul3535.vercel.app/Zing.m3u8
+#EXTINF:-1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4023613457774cbeb71a62c339970e63:1c3e9fce5f014542be9cd1f749181204
-#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/manifest.mpd
-http://103.175.73.12:8080/live/256/256_0.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/diYkUOnX.png" group-title="India🇮🇳",Zee Anoml Cinema
+#EXTINF:-1 tvg-id="0-9-zeeanmol" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Zee%20Anmol.jpg?raw=true" group-title="India🇮🇳",Zee Anmol
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/manifest.mpd
+https://sonamul3535.vercel.app/Zee-Anmol.m3u8
+#EXTINF:-1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=812411cba8bc42c79eb2b19cd78ad3f3:468a0b8d3d5d42d8a5c41bb875390a74
-#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
-http://103.175.73.12:8080/live/271/271_0.m3u8
+#KODIPROP:inputstream.adaptive.license_key=e61523260c614746b25b9a5523fe9a39:72ddbf37f76f49acbb8e140e7279e7a1
+#EXTINF:-1 tvg-id="0-9-zeeclassic" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Zee%20Bollywood.jpg?raw=true" group-title="India🇮🇳",Zee Bollywood
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
+http://103.229.254.25:7001/play/a0dk/index.m3u8
+#EXTINF:-1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
+#EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/And%20&%20TV.jpg?raw=true" group-title="India🇮🇳",&TV HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
+https://sonamul3535.vercel.app/&tv-hd.m3u8
+#EXTINF:-1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8dea532cabfe4f71ba20f62310e7949f:7a214a974e4f4d1d9bb66364d5f0cb92
+#EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/And%20&%20Picture.jpg?raw=true" group-title="India🇮🇳",&Pictures HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
+https://sonamul3535.vercel.app/&picture-hd.m3u8
+#EXTINF:-1
+#EXTINF:-1 group-title="India🇮🇳" tvg-chno="" tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony%20Sab.jpg?raw=true",SONY SAB HD
+http://103.99.249.139/sonysab/index.m3u8
+#EXTINF:1 tvg-name="Sony Sab" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony%20Sab.jpg?raw=true" group-title="India🇮🇳",Sony Sab
+http://217.20.112.199:8888/sabtvhd/index.m3u8
+#EXTINF:1 tvg-name="Star jalsha" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Star%20Jalsha.jpg?raw=true" group-title="India🇮🇳",Star Jalsha
+https://tvsen1.aynaott.com/gUX8BJmNc2yF/index.m3u8
+#EXTINF:1 tvg-name="Jalsha Movie" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Jalsha%20Movie.jpg?raw=true" group-title="India🇮🇳",Jalsha Movie
+http://tvn2.chowdhury-shaheb.com/stargold/index.m3u8
+#EXTINF:1 tvg-name="Jalsha Movie" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Jalsha%20Movie.jpg?raw=true" group-title="India🇮🇳",Jalsha Movie (Singapore ip)
+https://cdn-tamp.vercel.app/Kalkata/AR/Live_Stream/Star-Jalsha-Movies-Bangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:1 tvg-name="Star Gold" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Star%20Gold.jpg?raw=true" group-title="India🇮🇳",Star Gold2
+http://103.229.254.25:7001/play/a0df/index.m3u8
+#EXTINF:1 tvg-name="HUM TV" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/HUMTV.jpg?raw=true" group-title="India🇮🇳",HUM TV
+https://sonamul3535.vercel.app/Hum-tv.m3u8
+#EXTINF:1 tvg-name="Sun Bangla" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Sun%20bangla.jpg?raw=true" group-title="India🇮🇳",Sun Bangla
+https://sonamul3535.vercel.app/Sun-bangla.m3u8
+#EXTINF:1 tvg-id="550" tvg-name="Discovery kids" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Discovery%20Kids.jpg?raw=true" group-title="India🇮🇳",Discovery kids
+http://103.229.254.25:7001/play/a0dg/index.m3u8
+#EXTINF:1 tvg-id="559" tvg-name="Pogo" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Pogo.jpg?raw=true" group-title="India🇮🇳",Pogo
+http://103.229.254.25:7001/play/a0dh/index.m3u8
+#EXTINF:-1 tvg-id="573" tvg-id="discovey" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Discovery%20Bangla.png?raw=true" group-title="India🇮🇳",Discovery Bangla
+https://sonamul3535.vercel.app/Discovery.m3u8
+#EXTINF:-1 tvg-name="National Geographic Hindi" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/National%20Geographic.jpg?raw=true" group-title="India🇮🇳",National Geographic Hindi
+https://sonamul3535.vercel.app/National-geographic.m3u8
+#EXTINF:1 tvg-id="578" tvg-name="History TV18 HD (HINDI)" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/History%20Tv.jpg?raw=true" group-title="India🇮🇳",History TV18
+https://sonamul3535.vercel.app/History-18.m3u8
+#EXTINF:1 tvg-name="Travelxp" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Tavelxp.jpg?raw=true" group-title="India🇮🇳",Travelxp
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:1 tvg-id="1998" tvg-name="Star Sports" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Star%20Sports.jpg?raw=true" group-title="India🇮🇳",Star Sports
+http://103.229.254.25:7001/play/a0dn/index.m3u8
+#EXTINF:1 tvg-name="SAMAY KOLKATA" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/SamayKolkata.jpg?raw=true" group-title="India🇮🇳",SAMAY KOLKATA
+https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8
+
+
 
 Hindi
 
