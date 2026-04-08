@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:1 tvg-name="Tsports" tvg-logo="" group-title="LIVE SPORTS",IPL
-http://10.20.30.40:7171/Sports-1/index.m3u8?token=sunrise0galaxy0eid
+http://10.20.30.40:7171/Sports-2/tracks-a1/index.fmp4.m3u8?token=sunrise0galaxy0eid
 
 #EXTINF:1 tvg-name="sports" tvg-logo="" group-title="LIVE SPORTS",Live NoW
-http://172.16.29.2:8090/hls/tsportshd.m3u8
+http://10.20.30.40:7171/Sports-1/index.m3u8?token=sunrise0galaxy0eid
 
 #EXTINF:1 tvg-name="TsportsHD" tvg-logo="" group-title="LIVE SPORTS",Live NOw 2
 http://10.20.30.40:7171/Sports-3/tracks-v1a1/mono.ts.m3u8?token=cdrom7643disk
