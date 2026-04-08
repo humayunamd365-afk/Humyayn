@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:1 tvg-name="Tsports" tvg-logo="" group-title="LIVE SPORTS",IPL
-http://10.20.30.40:7171/Sports-2/tracks-v1/index.fmp4.m3u8?token=sunrise0galaxy0eid
+http://10.20.30.40:7171/Sports-2/index.m3u8?token=sunrise0galaxy0eid
 
 #EXTINF:1 tvg-name="sports" tvg-logo="" group-title="LIVE SPORTS",Live NoW
 http://10.20.30.40:7171/Sports-1/index.m3u8?token=sunrise0galaxy0eid
@@ -460,7 +460,7 @@ http://103.240.44.26/Masranga-HD/index.fmp4.m3u8
 Favourite 
 
 #EXTINF:1 tvg-name="And TV" tvg-logo="https://i.ibb.co.com/RGJpzZh9/1000022981.jpg" group-title="TOP Channel",&Tv (4K)
-http://66.102.120.18:8000/play/a01u
+http://10.20.30.40:7171/Entertainment-8/index.m3u8?token=sunrise0galaxy0eid
 #EXTINF:1 tvg-name="&TV" tvg-logo="https://i.ibb.co.com/RGJpzZh9/1000022981.jpg" group-title="TOP Channel",&Tv FHD
 https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:1 tvg-name="MTV" tvg-logo="" group-title="TOP Channel",SaBTV
