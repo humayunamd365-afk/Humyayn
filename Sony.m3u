@@ -6,8 +6,8 @@ http://10.20.30.40:7171/Sports-2/index.m3u8?token=sunrise0galaxy0eid
 #EXTINF:1 tvg-name="sports" tvg-logo="" group-title="LIVE SPORTS",Live NoW
 http://10.20.30.40:7171/Sports-1/index.m3u8?token=sunrise0galaxy0eid
 
-#EXTINF:1 tvg-name="TsportsHD" tvg-logo="" group-title="LIVE SPORTS",Live NOw 2
-http://10.20.30.40:7171/Sports-3/tracks-v1a1/mono.ts.m3u8?token=cdrom7643disk
+#EXTINF:1 tvg-name="TsportsHD" tvg-logo="" group-title="LIVE SPORTS",Live NOw 2(IPL)
+https://valverdeaethegoat.hardiksoni85555.workers.dev/live.m3u8
 
 #EXTINF:1 tvg-name="Tsports" tvg-logo="" group-title="LIVE SPORTS",Live Now 3
 http://10.20.30.40:7171/Sports-5/tracks-v1a1/mono.ts.m3u8?token=cdrom7643disk
