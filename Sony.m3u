@@ -1,5 +1,162 @@
 #EXTM3U
 
+#EXTM3U
+
+#EXTINF:-1 tvg-name="News 1" tvg-logo="" group-title="Humayun",News 1
+http://10.20.30.40:7171/News-1/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="News 2" tvg-logo="" group-title="Humayun",News 2
+http://10.20.30.40:7171/News-2/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="News 3" tvg-logo="" group-title="Humayun",News 3
+http://10.20.30.40:7171/News-3/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="News 4" tvg-logo="" group-title="Humayun",News 4
+http://10.20.30.40:7171/News-4/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="News 5" tvg-logo="" group-title="Humayun",News 5
+http://10.20.30.40:7171/News-5/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="News 6" tvg-logo="" group-title="Humayun",News 6
+http://10.20.30.40:7171/News-6/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="News 7" tvg-logo="" group-title="Humayun",News 7
+http://10.20.30.40:7171/News-7/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="News 8" tvg-logo="" group-title="Humayun",News 8
+http://10.20.30.40:7171/News-8/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="News 9" tvg-logo="" group-title="Humayun",News 9
+http://10.20.30.40:7171/News-9/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="News 10" tvg-logo="" group-title="Humayun",News 10
+http://10.20.30.40:7171/News-10/index.m3u8?token=sunrise0galaxyoeid
+
+#EXTINF:-1 tvg-name="Documentary 1" tvg-logo="" group-title="Humayun",Documentary 1
+http://10.20.30.40:7171/Documentary-1/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Documentary 2" tvg-logo="" group-title="Humayun",Documentary 2
+http://10.20.30.40:7171/Documentary-2/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Documentary 3" tvg-logo="" group-title="Humayun",Documentary 3
+http://10.20.30.40:7171/Documentary-3/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Documentary 4" tvg-logo="" group-title="Humayun",Documentary 4
+http://10.20.30.40:7171/Documentary-4/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Documentary 5" tvg-logo="" group-title="Humayun",Documentary 5
+http://10.20.30.40:7171/Documentary-5/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Documentary 6" tvg-logo="" group-title="Humayun",Documentary 6
+http://10.20.30.40:7171/Documentary-6/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Documentary 7" tvg-logo="" group-title="Humayun",Documentary 7
+http://10.20.30.40:7171/Documentary-7/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Documentary 8" tvg-logo="" group-title="Humayun",Documentary 8
+http://10.20.30.40:7171/Documentary-8/index.m3u8?token=sunrise0galaxyoeid
+
+#EXTINF:-1 tvg-name="Islamic 1" tvg-logo="" group-title="Humayun",Islamic 1
+http://10.20.30.40:7171/Islamic-1/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Islamic 2" tvg-logo="" group-title="Humayun",Islamic 2
+http://10.20.30.40:7171/Islamic-2/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Islamic 3" tvg-logo="" group-title="Humayun",Islamic 3
+http://10.20.30.40:7171/Islamic-3/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Islamic 4" tvg-logo="" group-title="Humayun",Islamic 4
+http://10.20.30.40:7171/Islamic-4/index.m3u8?token=sunrise0galaxyoeid
+
+#EXTINF:-1 tvg-name="Cartoon 1" tvg-logo="" group-title="Humayun",Cartoon 1
+http://10.20.30.40:7171/Cartoon-1/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Cartoon 2" tvg-logo="" group-title="Humayun",Cartoon 2
+http://10.20.30.40:7171/Cartoon-2/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Cartoon 3" tvg-logo="" group-title="Humayun",Cartoon 3
+http://10.20.30.40:7171/Cartoon-3/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Cartoon 4" tvg-logo="" group-title="Humayun",Cartoon 4
+http://10.20.30.40:7171/Cartoon-4/index.m3u8?token=sunrise0galaxyoeid
+
+#EXTINF:-1 tvg-name="Music 1" tvg-logo="" group-title="Humayun",Music 1
+http://10.20.30.40:7171/Music-1/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Music 2" tvg-logo="" group-title="Humayun",Music 2
+http://10.20.30.40:7171/Music-2/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Music 3" tvg-logo="" group-title="Humayun",Music 3
+http://10.20.30.40:7171/Music-3/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Music 4" tvg-logo="" group-title="Humayun",Music 4
+http://10.20.30.40:7171/Music-4/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Music 5" tvg-logo="" group-title="Humayun",Music 5
+http://10.20.30.40:7171/Music-5/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Music 6" tvg-logo="" group-title="Humayun",Music 6
+http://10.20.30.40:7171/Music-6/index.m3u8?token=sunrise0galaxyoeid
+
+#EXTINF:-1 tvg-name="Entertainment 1" tvg-logo="" group-title="Humayun",Entertainment 1
+http://10.20.30.40:7171/Entertainment-1/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Entertainment 2" tvg-logo="" group-title="Humayun",Entertainment 2
+http://10.20.30.40:7171/Entertainment-2/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Entertainment 3" tvg-logo="" group-title="Humayun",Entertainment 3
+http://10.20.30.40:7171/Entertainment-3/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Entertainment 4" tvg-logo="" group-title="Humayun",Entertainment 4
+http://10.20.30.40:7171/Entertainment-4/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Entertainment 5" tvg-logo="" group-title="Humayun",Entertainment 5
+http://10.20.30.40:7171/Entertainment-5/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Entertainment 6" tvg-logo="" group-title="Humayun",Entertainment 6
+http://10.20.30.40:7171/Entertainment-6/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Entertainment 7" tvg-logo="" group-title="Humayun",Entertainment 7
+http://10.20.30.40:7171/Entertainment-7/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Entertainment 8" tvg-logo="" group-title="Humayun",Entertainment 8
+http://10.20.30.40:7171/Entertainment-8/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Entertainment 9" tvg-logo="" group-title="Humayun",Entertainment 9
+http://10.20.30.40:7171/Entertainment-9/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Entertainment 10" tvg-logo="" group-title="Humayun",Entertainment 10
+http://10.20.30.40:7171/Entertainment-10/index.m3u8?token=sunrise0galaxyoeid
+
+#EXTINF:-1 tvg-name="Bangladesh 1" tvg-logo="" group-title="Humayun",Bangladesh 1
+http://10.20.30.40:7171/Bangladesh-1/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Bangladesh 2" tvg-logo="" group-title="Humayun",Bangladesh 2
+http://10.20.30.40:7171/Bangladesh-2/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Bangladesh 3" tvg-logo="" group-title="Humayun",Bangladesh 3
+http://10.20.30.40:7171/Bangladesh-3/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Bangladesh 4" tvg-logo="" group-title="Humayun",Bangladesh 4
+http://10.20.30.40:7171/Bangladesh-4/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Bangladesh 5" tvg-logo="" group-title="Humayun",Bangladesh 5
+http://10.20.30.40:7171/Bangladesh-5/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Bangladesh 6" tvg-logo="" group-title="Humayun",Bangladesh 6
+http://10.20.30.40:7171/Bangladesh-6/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Bangladesh 7" tvg-logo="" group-title="Humayun",Bangladesh 7
+http://10.20.30.40:7171/Bangladesh-7/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Bangladesh 8" tvg-logo="" group-title="Humayun",Bangladesh 8
+http://10.20.30.40:7171/Bangladesh-8/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Bangladesh 9" tvg-logo="" group-title="Humayun",Bangladesh 9
+http://10.20.30.40:7171/Bangladesh-9/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Bangladesh 10" tvg-logo="" group-title="Humayun",Bangladesh 10
+http://10.20.30.40:7171/Bangladesh-10/index.m3u8?token=sunrise0galaxyoeid
+
+#EXTINF:-1 tvg-name="Sports 1" tvg-logo="" group-title="Humayun",Sports 1
+http://10.20.30.40:7171/Sports-1/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Sports 2" tvg-logo="" group-title="Humayun",Sports 2
+http://10.20.30.40:7171/Sports-2/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Sports 3" tvg-logo="" group-title="Humayun",Sports 3
+http://10.20.30.40:7171/Sports-3/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Sports 4" tvg-logo="" group-title="Humayun",Sports 4
+http://10.20.30.40:7171/Sports-4/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Sports 5" tvg-logo="" group-title="Humayun",Sports 5
+http://10.20.30.40:7171/Sports-5/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Sports 6" tvg-logo="" group-title="Humayun",Sports 6
+http://10.20.30.40:7171/Sports-6/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Sports 7" tvg-logo="" group-title="Humayun",Sports 7
+http://10.20.30.40:7171/Sports-7/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Sports 8" tvg-logo="" group-title="Humayun",Sports 8
+http://10.20.30.40:7171/Sports-8/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Sports 9" tvg-logo="" group-title="Humayun",Sports 9
+http://10.20.30.40:7171/Sports-9/index.m3u8?token=sunrise0galaxyoeid
+
+#EXTINF:-1 tvg-name="Movies 1" tvg-logo="" group-title="Humayun",Movies 1
+http://10.20.30.40:7171/Movies-1/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Movies 2" tvg-logo="" group-title="Humayun",Movies 2
+http://10.20.30.40:7171/Movies-2/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Movies 3" tvg-logo="" group-title="Humayun",Movies 3
+http://10.20.30.40:7171/Movies-3/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Movies 4" tvg-logo="" group-title="Humayun",Movies 4
+http://10.20.30.40:7171/Movies-4/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Movies 5" tvg-logo="" group-title="Humayun",Movies 5
+http://10.20.30.40:7171/Movies-5/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Movies 6" tvg-logo="" group-title="Humayun",Movies 6
+http://10.20.30.40:7171/Movies-6/video.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Movies 7" tvg-logo="" group-title="Humayun",Movies 7
+http://10.20.30.40:7171/Movies-7/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Movies 8" tvg-logo="" group-title="Humayun",Movies 8
+http://10.20.30.40:7171/Movies-8/video.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Movies 9" tvg-logo="" group-title="Humayun",Movies 9
+http://10.20.30.40:7171/Movies-9/video.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Movies 10" tvg-logo="" group-title="Humayun",Movies 10
+http://10.20.30.40:7171/Movies-10/index.m3u8?token=sunrise0galaxyoeid
+#EXTINF:-1 tvg-name="Movies 11" tvg-logo="" group-title="Humayun",Movies 11
+http://10.20.30.40:7171/Movies-11/video.m3u8?token=sunrise0galaxyoeid
+
+......
+
 #EXTINF:1 tvg-name="Tsports" tvg-logo="" group-title="LIVE SPORTS",IPL
 http://10.20.30.40:7171/Sports-2/index.m3u8?token=sunrise0galaxy0eid
 
