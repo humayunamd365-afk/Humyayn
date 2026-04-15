@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTM3U
-
 #EXTINF:-1 tvg-name="News 1" group-title="Humayun",News 1
 http://10.20.30.40:7171/News-1/index.m3u8?token=sunrise0galaxyoeid
 #EXTINF:-1 tvg-name="News 2" group-title="Humayun",News 2
