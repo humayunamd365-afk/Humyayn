@@ -113,9 +113,9 @@ http://10.20.30.40:7171/Bangladesh-9/index.m3u8?token=sunrise0galaxyoeid
 http://10.20.30.40:7171/Bangladesh-10/index.m3u8?token=sunrise0galaxyoeid
 
 #EXTINF:-1 tvg-name="Sports 1" group-title="Humayun",Sports 1
-http://10.20.30.40:7171/Sports-1/index.m3u8?token=sunrise0galaxyoeid
+
 #EXTINF:-1 tvg-name="Sports 2" group-title="Humayun",Sports 2
-http://10.20.30.40:7171/Sports-2/index.m3u8?token=sunrise0galaxyoeid
+
 #EXTINF:-1 tvg-name="Sports 3" group-title="Humayun",Sports 3
 http://10.20.30.40:7171/Sports-3/index.m3u8?token=sunrise0galaxyoeid
 #EXTINF:-1 tvg-name="Sports 4" group-title="Humayun",Sports 4
@@ -160,7 +160,7 @@ http://10.20.30.40:7171/Movies-11/video.m3u8?token=sunrise0galaxyoeid
 #EXTINF:1 tvg-name="Tsports" tvg-logo="" group-title="LIVE SPORTS",IPL
 http://10.20.30.40:7171/Sports-2/index.m3u8?token=sunrise0galaxy0eid
 
-#EXTINF:1 tvg-name="sports" tvg-logo="" group-title="LIVE SPORTS",Live NoW
+#EXTINF:1 tvg-name="sporthh" tvg-logo="" group-title="LIVE SPORTS",Live NoW
 http://10.20.30.40:7171/Sports-1/index.m3u8?token=sunrise0galaxy0eid
 
 #EXTINF:1 tvg-name="TsportsHD" tvg-logo="" group-title="LIVE SPORTS",Live NOw 2(IPL)
