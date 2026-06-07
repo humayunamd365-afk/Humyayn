@@ -656,5 +656,8 @@ Entertainment
 vdo
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Series",gullak
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Series",gullak1
 https://pub-86798d806e5f495793f542bcb58782b7.r2.dev/CINEFREAK.TOP%20-%20Gullak%20%5BS05E01%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Series",gullak2
+https://pub-da46d0d88dea43618b59593cac12b3c8.r2.dev/CINEFREAK.TOP%20-%20Gullak%20%5BS05E02%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
